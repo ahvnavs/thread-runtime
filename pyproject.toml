@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "thread-runtime"
 version = "0.1.0"
 description = "Lightweight, portable, terminal-first runtime for interactive story experiences."
-requires-python = ">=3.14"
+requires-python = ">=3.11"
 dependencies = []
 
 [project.scripts]

@@ -1,6 +1,7 @@
 """THREAD Runtime command-line interface."""
 
 import argparse
+from importlib.metadata import version as get_version
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -9,10 +10,12 @@ def build_parser() -> argparse.ArgumentParser:
         description="THREAD Runtime",
     )
 
+    pkg_version = get_version("thread-runtime")
+
     parser.add_argument(
         "--version",
         action="version",
-        version="THREAD Runtime 0.1.0",
+        version=f"THREAD Runtime {pkg_version}",
     )
 
     return parser
