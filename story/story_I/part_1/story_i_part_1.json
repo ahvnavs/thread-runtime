@@ -1,0 +1,229 @@
+{
+  "schema_version": "1.0",
+  "metadata": {
+    "id": "story-i-part-1-aulis",
+    "title": "Story I — Part 1: The Sacrifice of Iphigenia",
+    "version": "1.0.0",
+    "author": "THREAD Runtime Production Team",
+    "description": "Gold-standard reference production of Story I Part 1: The Sacrifice of Iphigenia: Echoes at Aulis (60.0s HD Master).",
+    "minimum_runtime": "0.1.0"
+  },
+  "initial_state": {
+    "flags": {},
+    "variables": {},
+    "inventory": []
+  },
+  "start_scene": "scene_intro",
+  "scenes": {
+    "scene_intro": {
+      "id": "scene_intro",
+      "title": "The Shores of Aulis",
+      "text": "The Greek fleet lies dead in the water at Aulis. King Agamemnon stands before the sacred altar pillar where destiny demands an unimaginable choice.",
+      "is_ending": true,
+      "ending_type": "Aulis Sacrifice"
+    }
+  },
+  "cinematic_scenes": {
+    "scene_iphigenia_aulis": {
+      "id": "scene_iphigenia_aulis",
+      "title": "The Sacrifice of Iphigenia: Echoes at Aulis",
+      "duration_ms": 60000,
+      "shots": [
+        {
+          "id": "shot_001",
+          "duration_ms": 6000,
+          "camera": {
+            "framing": "extreme_wide",
+            "movement": "static",
+            "subject": "ancient_fleet_aulis"
+          },
+          "cues": [
+            {
+              "cue_type": "ambience",
+              "asset_id": "wind_whistle",
+              "start_time_ms": 0,
+              "volume": 0.8
+            }
+          ]
+        },
+        {
+          "id": "shot_002",
+          "duration_ms": 6000,
+          "camera": {
+            "framing": "wide",
+            "movement": "tracking",
+            "subject": "agamemnon"
+          },
+          "actions": [
+            {
+              "character_id": "agamemnon",
+              "action": "stand",
+              "start_time_ms": 0,
+              "duration_ms": 6000,
+              "target": "flagship_prow"
+            }
+          ],
+          "cues": [
+            {
+              "cue_type": "sound_effect",
+              "asset_id": "fleet_creak",
+              "start_time_ms": 1000,
+              "volume": 0.9
+            }
+          ]
+        },
+        {
+          "id": "shot_003",
+          "duration_ms": 6000,
+          "camera": {
+            "framing": "medium",
+            "movement": "push_in",
+            "subject": "iphigenia"
+          },
+          "actions": [
+            {
+              "character_id": "iphigenia",
+              "action": "walk",
+              "start_time_ms": 0,
+              "duration_ms": 6000,
+              "target": "altar_stone"
+            }
+          ]
+        },
+        {
+          "id": "shot_004",
+          "duration_ms": 6000,
+          "camera": {
+            "framing": "close",
+            "movement": "static",
+            "subject": "agamemnon_grief"
+          },
+          "actions": [
+            {
+              "character_id": "agamemnon",
+              "action": "turn",
+              "start_time_ms": 0
+            }
+          ],
+          "cues": [
+            {
+              "cue_type": "dialogue",
+              "asset_id": "line_forgive_me_winds",
+              "speaker_id": "agamemnon",
+              "text": "Forgive me... the winds demand their toll.",
+              "start_time_ms": 2000
+            }
+          ]
+        },
+        {
+          "id": "shot_005",
+          "duration_ms": 6000,
+          "camera": {
+            "framing": "close",
+            "movement": "static",
+            "subject": "altar_pillar"
+          },
+          "actions": [
+            {
+              "character_id": "iphigenia",
+              "action": "raise",
+              "start_time_ms": 0,
+              "target": "hand"
+            }
+          ],
+          "cues": [
+            {
+              "cue_type": "sound_effect",
+              "asset_id": "altar_hum",
+              "start_time_ms": 1000,
+              "volume": 1.0
+            }
+          ],
+          "transition": {
+            "type": "match_cut",
+            "duration_ms": 0,
+            "target_scene": "scene_future_aulis_core",
+            "target_shot": "shot_006"
+          }
+        },
+        {
+          "id": "shot_006",
+          "duration_ms": 6000,
+          "camera": {
+            "framing": "close",
+            "movement": "static",
+            "subject": "quantum_core"
+          },
+          "actions": [
+            {
+              "character_id": "cyber_kaelen",
+              "action": "raise",
+              "start_time_ms": 0,
+              "target": "cyber_hand"
+            }
+          ],
+          "cues": [
+            {
+              "cue_type": "dialogue",
+              "asset_id": "line_sacrifice_never_forgotten",
+              "speaker_id": "cyber_kaelen",
+              "text": "The sacrifice was never forgotten.",
+              "start_time_ms": 2000
+            }
+          ]
+        },
+        {
+          "id": "shot_007",
+          "duration_ms": 6000,
+          "camera": {
+            "framing": "close",
+            "movement": "static",
+            "subject": "eyes_cyber"
+          },
+          "actions": [
+            {
+              "character_id": "cyber_kaelen",
+              "action": "look",
+              "start_time_ms": 0
+            }
+          ]
+        },
+        {
+          "id": "shot_008",
+          "duration_ms": 6000,
+          "camera": {
+            "framing": "extreme_wide",
+            "movement": "pan",
+            "subject": "fleet_sails_ignite"
+          },
+          "cues": [
+            {
+              "cue_type": "music",
+              "asset_id": "gale_orchestral_theme",
+              "start_time_ms": 0,
+              "volume": 0.95
+            }
+          ]
+        },
+        {
+          "id": "shot_009",
+          "duration_ms": 6000,
+          "camera": {
+            "framing": "wide",
+            "movement": "static",
+            "subject": "vista_open_sea"
+          }
+        },
+        {
+          "id": "shot_010",
+          "duration_ms": 6000,
+          "camera": {
+            "framing": "extreme_wide",
+            "movement": "static",
+            "subject": "cosmic_nebula_rune"
+          }
+        }
+      ]
+    }
+  }
+}

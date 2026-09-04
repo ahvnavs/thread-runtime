@@ -1,0 +1,17 @@
+{
+  "character_id": "traveler_elias",
+  "name": "Elias the Wayfinder",
+  "visual_description": "A tall wanderer clad in a weather-beaten navy mantle with an antique brass brooch.",
+  "hair": "Dark tousled hair",
+  "eyes_ancient": "Amber / warm brown",
+  "eyes_future": "Neon bioluminescent blue iris ring with cybernetic temple seam",
+  "silhouette": "Distinct hooded shoulder mantle and upright posture",
+  "palette": {
+    "cloak": "#1c2833",
+    "accent": "#d4ac0d",
+    "eyes_ancient": "#b7950b",
+    "eyes_future": "#5ded2f"
+  },
+  "provenance": "Authored original character identity for THREAD Runtime Cycle 6 Vertical Slice",
+  "license": "MIT / Original Project Asset"
+}

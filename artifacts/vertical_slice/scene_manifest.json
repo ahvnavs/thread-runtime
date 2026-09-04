@@ -1,0 +1,51 @@
+{
+  "scene_id": "threshold_vertical_slice",
+  "title": "The Threshold: Echoes of Eternity",
+  "duration_ms": 32000,
+  "resolution": "1280x720",
+  "fps": 24,
+  "assets": [
+    {
+      "id": "env_ancient_pass",
+      "type": "environment",
+      "description": "Twilight mountain pass with ancient iron gate monolith",
+      "license": "Original / Project Asset",
+      "source": "THREAD Render Pipeline 2D Compositor"
+    },
+    {
+      "id": "env_future_metropolis",
+      "type": "environment",
+      "description": "Neon metropolis under crimson sky with glowing monolith emblem",
+      "license": "Original / Project Asset",
+      "source": "THREAD Render Pipeline 2D Compositor"
+    },
+    {
+      "id": "char_traveler_ancient",
+      "type": "character",
+      "description": "Elias in traveler mantle",
+      "license": "Original / Project Asset",
+      "source": "THREAD Render Pipeline 2D Compositor"
+    },
+    {
+      "id": "char_traveler_future",
+      "type": "character",
+      "description": "Elias far-future cybernetic manifestation",
+      "license": "Original / Project Asset",
+      "source": "THREAD Render Pipeline 2D Compositor"
+    },
+    {
+      "id": "cue_wind_whistle",
+      "type": "audio",
+      "description": "Synthesized ambient wind drone",
+      "license": "Original Procedural Audio Reference",
+      "source": "THREAD Cue Engine"
+    },
+    {
+      "id": "cue_gate_hum",
+      "type": "audio",
+      "description": "Synthesized resonant iron hum",
+      "license": "Original Procedural Audio Reference",
+      "source": "THREAD Cue Engine"
+    }
+  ]
+}

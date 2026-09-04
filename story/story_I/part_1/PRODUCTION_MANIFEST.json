@@ -1,0 +1,93 @@
+{
+  "production_id": "story_i_part_1_aulis",
+  "title": "Story I — Part 1: The Sacrifice of Iphigenia: Echoes at Aulis",
+  "version": "1.0.0",
+  "runtime_minimum": "0.1.0",
+  "duration_ms": 60000,
+  "resolution": "1280x720",
+  "fps": 24,
+  "shots_count": 10,
+  "screenplay_file": "screenplay/SCREENPLAY.md",
+  "master_bible_file": "MASTER_BIBLE.md",
+  "subtitle_file": "assets/subtitles/english.vtt",
+  "provenance_audit": {
+    "code_license": "MIT",
+    "art_asset_provenance": "ORIGINAL_ART / THREAD 2D Compositor",
+    "audio_asset_provenance": "GENERATED / THREAD Audio Synthesizer",
+    "font_license": "PILOW_DEFAULT",
+    "model_or_tool_provenance": "THREAD Runtime 0.1.0 Renderer",
+    "source_material_status": "PUBLIC_DOMAIN / Original Adaptation"
+  },
+  "assets": [
+    {
+      "id": "env_aulis_fleet",
+      "type": "environment",
+      "source": "THREAD 2D Compositor",
+      "license": "MIT / Original Project Asset",
+      "status": "ORIGINAL_ART"
+    },
+    {
+      "id": "env_aulis_altar",
+      "type": "environment",
+      "source": "THREAD 2D Compositor",
+      "license": "MIT / Original Project Asset",
+      "status": "ORIGINAL_ART"
+    },
+    {
+      "id": "env_aulis9_core",
+      "type": "environment",
+      "source": "THREAD 2D Compositor",
+      "license": "MIT / Original Project Asset",
+      "status": "ORIGINAL_ART"
+    },
+    {
+      "id": "char_agamemnon",
+      "type": "character",
+      "source": "THREAD Character Compositor",
+      "license": "MIT / Original Project Asset",
+      "status": "ORIGINAL_ART"
+    },
+    {
+      "id": "char_iphigenia",
+      "type": "character",
+      "source": "THREAD Character Compositor",
+      "license": "MIT / Original Project Asset",
+      "status": "ORIGINAL_ART"
+    },
+    {
+      "id": "char_cyber_kaelen",
+      "type": "character",
+      "source": "THREAD Character Compositor",
+      "license": "MIT / Original Project Asset",
+      "status": "ORIGINAL_ART"
+    },
+    {
+      "id": "cue_wind_whistle",
+      "type": "audio",
+      "source": "THREAD Audio Synthesizer",
+      "license": "MIT / Original Generated Asset",
+      "status": "GENERATED"
+    },
+    {
+      "id": "cue_fleet_creak",
+      "type": "audio",
+      "source": "THREAD Audio Synthesizer",
+      "license": "MIT / Original Generated Asset",
+      "status": "GENERATED"
+    },
+    {
+      "id": "cue_altar_hum",
+      "type": "audio",
+      "source": "THREAD Audio Synthesizer",
+      "license": "MIT / Original Generated Asset",
+      "status": "GENERATED"
+    },
+    {
+      "id": "cue_gale_orchestral_theme",
+      "type": "audio",
+      "source": "THREAD Audio Synthesizer",
+      "license": "MIT / Original Generated Asset",
+      "status": "GENERATED"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>THREAD Cinematic Player - The Sacrifice of Iphigenia: Echoes at Aulis</title>
+  <style>
+    body { background: #090d16; color: #e2e8f0; font-family: monospace; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; margin: 0; }
+    #stage { border: 2px solid #38bdf8; box-shadow: 0 0 30px rgba(56, 189, 248, 0.2); background: #000; border-radius: 6px; }
+    .controls { margin-top: 16px; display: flex; gap: 12px; align-items: center; }
+    button { background: #0284c7; color: white; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; font-weight: bold; }
+    button:hover { background: #0369a1; }
+    input[type=range] { width: 400px; }
+  </style>
+</head>
+<body>
+  <h2>THREAD CINEMATIC RUNTIME — HTML5 CANVAS PLAYER</h2>
+  <canvas id="stage" width="1280" height="720"></canvas>
+  <div class="controls">
+    <button id="btn-play">PLAY / PAUSE</button>
+    <input type="range" id="seeker" min="0" max="60000" value="0">
+    <span id="timer">00.00s / 60.00s</span>
+  </div>
+  <script>
+    const sceneDuration = 60000;
+    let elapsedMs = 0;
+    let playing = false;
+    let lastTime = 0;
+    const canvas = document.getElementById('stage');
+    const ctx = canvas.getContext('2d');
+
+    function draw(ms) {
+      ctx.fillStyle = '#0f172a';
+      ctx.fillRect(0, 0, 1280, 720);
+      
+      const isFuture = ms >= 26000;
+      if (!isFuture) {
+        // Ancient Sky
+        let grad = ctx.createLinearGradient(0,0,0,720);
+        grad.addColorStop(0, '#19143c');
+        grad.addColorStop(1, '#dc641e');
+        ctx.fillStyle = grad;
+        ctx.fillRect(0,0,1280,720);
+
+        // Gate
+        ctx.fillStyle = '#2d2a32';
+        ctx.fillRect(520, 220, 50, 380);
+        ctx.fillRect(710, 220, 50, 380);
+        ctx.beginPath();
+        ctx.arc(640, 280, 110, Math.PI, 0);
+        ctx.strokeStyle = '#5a5569';
+        ctx.lineWidth = 6;
+        ctx.stroke();
+      } else {
+        // Future Metropolis
+        let grad = ctx.createLinearGradient(0,0,0,720);
+        grad.addColorStop(0, '#0a051e');
+        grad.addColorStop(1, '#8c1450');
+        ctx.fillStyle = grad;
+        ctx.fillRect(0,0,1280,720);
+
+        // Monolith
+        ctx.fillStyle = '#020617';
+        ctx.fillRect(540, 100, 200, 620);
+        ctx.strokeStyle = '#38bdf8';
+        ctx.strokeRect(540, 100, 200, 620);
+        ctx.fillStyle = '#00e5ff';
+        ctx.beginPath();
+        ctx.arc(640, 275, 25, 0, Math.PI*2);
+        ctx.fill();
+      }
+
+      // Header
+      ctx.fillStyle = '#020617';
+      ctx.fillRect(0, 0, 1280, 45);
+      ctx.fillStyle = '#94a3b8';
+      ctx.font = '16px monospace';
+      ctx.fillText('THREAD CINEMATIC RUNTIME | SCENE: THE SACRIFICE OF IPHIGENIA: ECHOES AT AULIS | ' + (ms/1000).toFixed(2) + 's', 20, 28);
+
+      if (ms >= 23000 && ms < 26000) {
+        ctx.fillStyle = '#0f172a';
+        ctx.fillRect(180, 560, 920, 110);
+        ctx.strokeStyle = '#38bdf8';
+        ctx.strokeRect(180, 560, 920, 110);
+        ctx.fillStyle = '#38bdf8';
+        ctx.fillText('[TRAVELER ELIAS]', 210, 590);
+        ctx.fillStyle = '#ffffff';
+        ctx.fillText('"The gate remembers..."', 210, 630);
+      } else if (ms >= 26000 && ms < 29000) {
+        ctx.fillStyle = '#0f172a';
+        ctx.fillRect(180, 560, 920, 110);
+        ctx.strokeStyle = '#38bdf8';
+        ctx.strokeRect(180, 560, 920, 110);
+        ctx.fillStyle = '#38bdf8';
+        ctx.fillText('[CYBER ELIAS]', 210, 590);
+        ctx.fillStyle = '#ffffff';
+        ctx.fillText('"And so do I."', 210, 630);
+      }
+
+      if (ms >= 23000 && ms < 26000) {
+        ctx.fillStyle = '#b91c1c';
+        ctx.fillRect(800, 10, 460, 26);
+        ctx.fillStyle = '#ffffff';
+        ctx.fillText('MATCH CUT → SCENE_FUTURE_THRESHOLD / SHOT_006', 810, 28);
+      }
+    }
+
+    function loop(now) {
+      if (playing) {
+        if (!lastTime) lastTime = now;
+        elapsedMs += (now - lastTime);
+        lastTime = now;
+        if (elapsedMs >= sceneDuration) {
+          elapsedMs = sceneDuration;
+          playing = false;
+        }
+        document.getElementById('seeker').value = elapsedMs;
+        document.getElementById('timer').innerText = (elapsedMs/1000).toFixed(2) + 's / ' + (sceneDuration/1000).toFixed(2) + 's';
+      }
+      draw(elapsedMs);
+      requestAnimationFrame(loop);
+    }
+
+    document.getElementById('btn-play').addEventListener('click', () => {
+      playing = !playing;
+      lastTime = 0;
+    });
+
+    document.getElementById('seeker').addEventListener('input', (e) => {
+      elapsedMs = parseInt(e.target.value);
+      draw(elapsedMs);
+    });
+
+    draw(0);
+    requestAnimationFrame(loop);
+  </script>
+</body>
+</html>

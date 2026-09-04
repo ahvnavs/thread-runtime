@@ -1,19 +1,21 @@
 [build-system]
-requires = ["setuptools>=75"]
+requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "thread-runtime"
-version = "0.1.0"
-description = "Lightweight, portable, terminal-first runtime for interactive story experiences."
-requires-python = ">=3.11"
-dependencies = []
+version = "0.21.0"
+description = "THREAD — Code-Driven Cinematic Game Runtime"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "THREAD Authors" }
+]
+dependencies = [
+    "numpy>=1.24.0",
+    "pillow>=9.5.0",
+    "pygame-ce>=2.5.0"
+]
 
 [project.scripts]
 thread = "thread_runtime.cli:main"
-
-[tool.setuptools]
-package-dir = {"" = "src"}
-
-[tool.setuptools.packages.find]
-where = ["src"]

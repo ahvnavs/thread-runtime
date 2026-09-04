@@ -1,0 +1,1602 @@
+[
+  {
+    "path": ".gitignore",
+    "classification": "KEEP",
+    "reason": "Mandatory top\u2011level file .gitignore"
+  },
+  {
+    "path": "pyproject.toml",
+    "classification": "KEEP",
+    "reason": "Mandatory top\u2011level file pyproject.toml"
+  },
+  {
+    "path": "LICENSE",
+    "classification": "KEEP",
+    "reason": "Mandatory top\u2011level file LICENSE"
+  },
+  {
+    "path": "thread",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'thread'"
+  },
+  {
+    "path": ".env.example",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "AGENTS.md",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "README.md",
+    "classification": "KEEP",
+    "reason": "Mandatory top\u2011level file README.md"
+  },
+  {
+    "path": "release/hello-thread-demo.threadpkg",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "release/release_manifest.json",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "release/playback/index.html",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "scratch/audit_timeline_sync.py",
+    "classification": "MOVE_TO_SCRATCH",
+    "reason": "Under scratch\u2011type directory 'scratch'"
+  },
+  {
+    "path": "scratch/build_production_gate_001.py",
+    "classification": "MOVE_TO_SCRATCH",
+    "reason": "Under scratch\u2011type directory 'scratch'"
+  },
+  {
+    "path": "scratch/generate_masterpiece_shots.py",
+    "classification": "MOVE_TO_SCRATCH",
+    "reason": "Under scratch\u2011type directory 'scratch'"
+  },
+  {
+    "path": "artifacts/vertical_slice/character_spec.json",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "artifacts/vertical_slice/scene_manifest.json",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "tests/test_engine.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/test_cli.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/test_shot_manifest.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/test_release_gate.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/test_presenter.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/test_state.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/test_save.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/test_clean_environment.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/test_real_playback.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/test_capabilities.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/test_cinematic.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/test_archive.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/test_brick.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/test_package.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/test_canonical_timeline.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_canonical_timeline.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_cli.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_clean_environment.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_release_gate.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_package.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_presenter.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_state.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_cinematic.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_save.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_capabilities.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_real_playback.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_brick.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_archive.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_engine.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": "tests/__pycache__/test_shot_manifest.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'tests'"
+  },
+  {
+    "path": ".git/description",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/config",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/index",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/COMMIT_EDITMSG",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/HEAD",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/logs/HEAD",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/logs/refs/remotes/origin/main",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/logs/refs/heads/main",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/refs/remotes/origin/main",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/refs/heads/main",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/info/exclude",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/hooks/pre-applypatch.sample",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/hooks/fsmonitor-watchman.sample",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/hooks/post-update.sample",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/hooks/applypatch-msg.sample",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/hooks/update.sample",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/hooks/push-to-checkout.sample",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/hooks/pre-receive.sample",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/hooks/commit-msg.sample",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/hooks/pre-push.sample",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/hooks/sendemail-validate.sample",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/hooks/prepare-commit-msg.sample",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/hooks/pre-rebase.sample",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/hooks/pre-commit.sample",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/hooks/pre-merge-commit.sample",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/15/9e28395e63f7f28c7d967535ded4d4d49c9d81",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/ea/337ca35b130476d1191cac647fc036334819e0",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/59/4659f5db0b8b9cbe2001409fabb97ad2f32098",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/fd/4b4549741122ec02e94fbcc4a35ad02ba4774f",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/6b/c77cd3971b6d469f12943369a62b8a238734e8",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/68/d138120cf6494a11eef2ff38e62cc685c7f027",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/e7/5a781171aebd7db28f105ef4c25c2c2752b6bd",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/6d/c12e48ba4474ad7804a01b99ad1343a002808a",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/6d/36c78211cb94d1286b738631da5283ab95ef98",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/a0/da3bd6612ba3431c1286b4bf7cfc09c019eb07",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/a0/e53829ff320731fc827039ca2f81bc4261b510",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/3d/f2985f7348a58393a40632dac4e4695e8b8479",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/ca/d73b1e645e9dbd8f72c61c70ef6a9e7a0b3397",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/20/16bf6e9566add91e6d8f3fd3235b86b2b89546",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/01/409b51a2ef792347cfde6381b0c7f04e7e1bbb",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/80/d356c4219b0251307b407dc6b0d9685022d763",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/d4/e562c4573e952e05eba4777e54599532cdbf40",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/78/0dfc8a7bd2140fcddc168bfb4b4ada7ddf9d87",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/93/5292bc6a0728959ae46f247b1dc03bf9e3f4ea",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/93/5250f41b0e4200555a11f8bd7fb3413e5cd573",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/42/c634a0efd4e10ef61ebad0e133dbf380e54824",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/ab/805fba31e6f95d280b16ae46215032bbfa67c8",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/c8/8c5fb42a4918bcd0e1fd7f101f8c223bad0bce",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/9f/fa15f38cad3e0f2481105869ea7f789072d4fb",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/9f/e84204175c9e35b31fca074e28c9720b91b851",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/8b/063b67c9f60cfd7c6a9d993f506380c820b2bc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/08/1d1c666a81bdfdd4a64479c61b6c9cffefd6e2",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/ad/09f24057f3cc5f8f56f95f21768ee88ed266d9",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/d6/1bcd001640b1a4fd347eda5964926623097aba",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/2f/ab86d0a2197a1446683de3fe940de66e8257c0",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/91/6d7fd03247a16b2ca53252771fda39e51d4d06",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/24/33292e73759922b5ca78dbddc57ca6356cb598",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/10/db037a53ddaa4cd62623d362f318119e4bf004",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/10/98c6bbb9062e0308c48e8f66416294602f97b9",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/51/96b1dc697ee7cc6c2ce6e16e488c7baf185785",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/b3/8eae979d7fe2451f03a2bb21911c3b11e6d41e",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/37/6c0ecf82ebd76401b250be2db08d99c952ac8e",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/7f/688ac5f0293662ea505d39ba2d63fa623bf01d",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/70/2e66fb1df3e52f4f737649682d59d3fc189623",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/71/6a920ba9b41e9cadaa4a0163170cec8680d6c0",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/29/5399f0e668ac1dd73c80450b72fae7f31d2b98",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/bc/66888bc1090a865f2dea5a5c69943ddb9b438b",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/69/eb6dd518dc36e6884ac8e653e317433dc5b7d7",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/17/d9b6228bb2abfa7765a0591d702b883a9d87dd",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/ae/1d3454e3bb0d6b3978d2f866921e447cabe25a",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/d8/b5a218a9a2e2bbcf74a6a21354bca4c9b090e2",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/1e/46dc1b88022dba728574a29d2271a948fd388e",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/50/eebdaaad02879658ddbda41ff650d2e1e3c39a",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/60/be257cef0c607e29b74f8a8e92e71de7443dbc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/58/feea958bd272b85b052204a3b81963b7a0ede0",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/c9/e9cab7a3a307e8e454cfe92d15e61c196e005f",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/c9/345a71911f80b0b42ce427c20a114f3444d0e5",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/a1/cf582b6ffb0551c6389bed0c9c4c15b41199cb",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/0e/0b4f9942a184c2abd4e417b0d91b178e83040e",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/d2/60fc26f19a1c0489e6628d762275ea9c32b8e3",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/54/7ed38b37f0048721559630f2788711a6b6fab0",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/ed/0f801dfca243b55f163b3e56cc0dfb92aece34",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/ed/9b573fc22802e2041fd374c5c19f1acd867c2d",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/79/424b6e7ef2123c4a9972b7c75eef52e388b169",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/c0/77af626ddacb4914b3780dbaccd035ceb7659a",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/47/eeb273effd73e35f13dc834af4d794b696ca04",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/26/37b893c951b42c16f0c0b969762ede33149c72",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/63/f705639812904883c485f58173deafcc3500fe",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/63/9d2ceab9d3bab325a031bca5eac25e629a25dc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/fc/28e0641918536f262bf03e9144a71134c63d68",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/49/9575dcc83f2c793a290d5f53f20f42e1097794",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/0a/5c69282e7bec8640c4601e86bb33b15282c914",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/9b/2b5f3a1a6b3245f599360615f59d4c178575d7",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": ".git/objects/dc/e9d0b6861645f62397b07a6ca29a8c2450aa46",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory '.git'"
+  },
+  {
+    "path": "scripts/audit_repository.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'scripts'"
+  },
+  {
+    "path": "story/story_I/part_1/CHAIN_OF_TITLE.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/CREDITS.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/PRODUCTION_MANIFEST.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/INSTALL.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/story.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/MASTER_BIBLE.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/QA_REPORT.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/STORY_NOTES.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/story_i_part_1.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/README.md",
+    "classification": "KEEP",
+    "reason": "Mandatory top\u2011level file README.md"
+  },
+  {
+    "path": "story/story_I/part_1/assets/subtitles/english.vtt",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/research/CANON_AND_ADAPTATION.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/provenance/PRODUCTION_MANIFEST.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/subtitles/english.vtt",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_009/foreground.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_009/background.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_009/manifest.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_009/subject.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_001/foreground_rocks.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_001/sea_and_fleet.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_001/scene.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_001/background.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_001/manifest.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_001/iphigenia_sprite.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_011/foreground.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_011/background.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_011/manifest.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_011/subject.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_004/foreground.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_004/background.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_004/manifest.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_004/subject.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/character.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/atmosphere.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/foreground.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/altar.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/background.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/hand.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/manifest.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/altar_detail.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/subject.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/lighting.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/rune.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/layers/character.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/layers/atmosphere.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/layers/altar.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/layers/background.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/layers/hand.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/layers/altar_detail.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/layers/lighting.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_005/layers/rune.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_008/foreground.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_008/background.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_008/manifest.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_008/subject.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_007/foreground.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_007/background.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_007/manifest.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_007/subject.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_003/foreground.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_003/background.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_003/manifest.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_003/subject.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/character.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/monolith_detail.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/atmosphere.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/foreground.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/conduit.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/monolith.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/background.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/hand.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/manifest.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/subject.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/lighting.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/layers/character.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/layers/monolith_detail.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/layers/atmosphere.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/layers/conduit.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/layers/monolith.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/layers/background.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/layers/hand.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_006/layers/lighting.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_002/foreground.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_002/background.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_002/manifest.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_002/subject.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_012/foreground.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_012/background.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_012/manifest.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_012/subject.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_010/foreground.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_010/background.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_010/manifest.json",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/shots/shot_010/subject.png",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/characters/CHARACTER_BIBLES.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/screenplay/SCREENPLAY.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/screenplay/VISUAL_REFERENCE_MATRIX.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "story/story_I/part_1/screenplay/FRAME_STATE_MATRIX.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'story'"
+  },
+  {
+    "path": "examples/hello.thread",
+    "classification": "MOVE_TO_SCRATCH",
+    "reason": "Under scratch\u2011type directory 'examples'"
+  },
+  {
+    "path": "src/thread_runtime/engine.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/save.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/shot_manifest.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/presenter.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/cinematic_game_engine.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/runtime.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/story.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/brick.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/capabilities.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/canonical_timeline.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/model.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/package.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/errors.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/provenance.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/archive.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/playback_engine.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/cinematic.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/cli.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/audio.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/release.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/renderer.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__init__.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__main__.py",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/capabilities.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/model.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/archive.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/__main__.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/playback_engine.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/package.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/engine.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/brick.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/provenance.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/shot_manifest.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/canonical_timeline.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/audio.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/runtime.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/cinematic.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/cli.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/save.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/__init__.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/release.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/story.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/errors.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/presenter.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime/__pycache__/renderer.cpython-314.pyc",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime.egg-info/entry_points.txt",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime.egg-info/PKG-INFO",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime.egg-info/SOURCES.txt",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime.egg-info/top_level.txt",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "src/thread_runtime.egg-info/dependency_links.txt",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'src'"
+  },
+  {
+    "path": "docs/LINUX.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'docs'"
+  },
+  {
+    "path": "docs/REPOSITORY_CLEANUP_AUDIT.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'docs'"
+  },
+  {
+    "path": "docs/CINEMATIC_BITWISE_LEGO_ARCHITECTURE.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'docs'"
+  },
+  {
+    "path": "docs/RUNTIME_PRODUCTION_CONTRACT.md",
+    "classification": "KEEP",
+    "reason": "Located under mandatory keep directory 'docs'"
+  },
+  {
+    "path": "output/shot_005_master.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/match_cut_contact_sheet.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/shot_006_master.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/threshold_vertical_slice/playback/index.html",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/contact_sheet.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/match_cut/frame_0719_ancient.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/match_cut/frame_0720_future.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/shot_005_keyframes/frame_0613.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/shot_005_keyframes/frame_0576.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/shot_005_keyframes/frame_0650.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/shot_005_keyframes/frame_0719.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/shot_005_keyframes/frame_0600.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/shot_005_keyframes/frame_0625.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/shot_005_keyframes/frame_0612.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/shot_005_keyframes/frame_0683.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/shot_006_keyframes/frame_0792.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/shot_006_keyframes/frame_0863.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/shot_006_keyframes/frame_0830.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/shot_006_keyframes/frame_0750.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/shot_006_keyframes/frame_0720.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/production_gate_001/shot_006_keyframes/frame_0721.png",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/sync_audit/visual_sync.csv",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/sync_audit/sync_report.md",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/sync_audit/timeline.csv",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/sync_audit/audio_sync.csv",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  },
+  {
+    "path": "output/sync_audit/subtitle_sync.csv",
+    "classification": "KEEP",
+    "reason": "Conservative default \u2013 keep unless clearly generated"
+  }
+]

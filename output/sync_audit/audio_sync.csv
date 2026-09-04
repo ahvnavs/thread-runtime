@@ -1,0 +1,10 @@
+audio_id,shot_id,start_us,end_us,start_frame,end_frame,source,volume
+audio_001,shot_001,0,12000000,0,288,wind_whistle.wav,0.8
+audio_002,shot_002,6000000,12000000,144,288,fleet_creak.wav,0.9
+audio_003,shot_003,12000000,24000000,288,576,string_swell.wav,0.7
+audio_004,shot_004,18000000,24000000,432,576,line_forgive_me_winds.wav,1.0
+audio_005,shot_005,25000000,30000000,600,720,altar_hum.wav,1.0
+audio_006,shot_006,30000000,36000000,720,864,core_hum.wav,1.0
+audio_007,shot_007,36000000,42000000,864,1008,energy_swell.wav,0.9
+audio_008,shot_008,42000000,54000000,1008,1296,gale_orchestral_theme.wav,0.95
+audio_009,shot_010,54000000,60000000,1296,1440,final_minor_chord.wav,1.0

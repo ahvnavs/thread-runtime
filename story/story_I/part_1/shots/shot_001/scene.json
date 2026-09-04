@@ -1,0 +1,14 @@
+{
+  "id": "shot_001",
+  "title": "Aulis Establishing Shot",
+  "layers": [
+    { "name": "background", "file": "background.png", "depth": 1.0 },
+    { "name": "sea_and_fleet", "file": "sea_and_fleet.png", "depth": 0.8 },
+    { "name": "foreground_rocks", "file": "foreground_rocks.png", "depth": 0.2 },
+    { "name": "iphigenia_sprite", "file": "iphigenia_sprite.png", "depth": 0.2 }
+  ],
+  "camera": {
+    "pan_x": 0.1,
+    "zoom": 1.0
+  }
+}

@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# THREAD Linux Executable Launcher Script
+set -e
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+export PYTHONPATH="$SCRIPT_DIR/src:$PYTHONPATH"
+cd "$SCRIPT_DIR"
+
+if [ -f ".venv/bin/python" ]; then
+    PYTHON_BIN=".venv/bin/python"
+else
+    PYTHON_BIN="python3"
+fi
+
+if [ "$1" = "play" ]; then
+    STORY_ARG="${2:-story/story_I/part_1/story.json}"
+    if [ "$STORY_ARG" = "story_I/part_1" ]; then
+        STORY_ARG="story/story_I/part_1/story.json"
+    fi
+    exec "$PYTHON_BIN" -m thread_runtime "$STORY_ARG"
+else
+    exec "$PYTHON_BIN" -m thread_runtime "$@"
+fi

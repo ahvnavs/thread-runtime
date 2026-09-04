@@ -1,0 +1,148 @@
+PWD:
+/home/ahvnav/projects/thread-runtime
+
+TOPLEVEL:
+/home/ahvnav/projects/thread-runtime
+
+STATUS:
+M  README.md
+A  docs/LINUX.md
+A  docs/RUNTIME_PRODUCTION_CONTRACT.md
+M  pyproject.toml
+M  src/thread_runtime/__init__.py
+A  src/thread_runtime/__main__.py
+A  src/thread_runtime/archive.py
+A  src/thread_runtime/audio.py
+A  src/thread_runtime/capabilities.py
+A  src/thread_runtime/cinematic.py
+A  src/thread_runtime/cinematic_game_engine.py
+M  src/thread_runtime/cli.py
+A  src/thread_runtime/engine.py
+AM src/thread_runtime/errors.py
+A  src/thread_runtime/model.py
+A  src/thread_runtime/package.py
+A  src/thread_runtime/playback_engine.py
+AM src/thread_runtime/presenter.py
+A  src/thread_runtime/provenance.py
+A  src/thread_runtime/release.py
+AM src/thread_runtime/renderer.py
+A  src/thread_runtime/runtime.py
+A  src/thread_runtime/save.py
+A  src/thread_runtime/story.py
+A  story/story_I/part_1/CHAIN_OF_TITLE.md
+A  story/story_I/part_1/CREDITS.md
+A  story/story_I/part_1/INSTALL.md
+A  story/story_I/part_1/MASTER_BIBLE.md
+A  story/story_I/part_1/PRODUCTION_MANIFEST.json
+A  story/story_I/part_1/QA_REPORT.md
+A  story/story_I/part_1/README.md
+A  story/story_I/part_1/STORY_NOTES.md
+A  story/story_I/part_1/assets/subtitles/english.vtt
+A  story/story_I/part_1/characters/CHARACTER_BIBLES.md
+A  story/story_I/part_1/research/CANON_AND_ADAPTATION.md
+A  story/story_I/part_1/screenplay/SCREENPLAY.md
+A  story/story_I/part_1/story.json
+A  story/story_I/part_1/story_i_part_1.json
+A  story/story_I/part_1/subtitles/english.vtt
+A  tests/test_archive.py
+A  tests/test_capabilities.py
+A  tests/test_cinematic.py
+A  tests/test_clean_environment.py
+M  tests/test_cli.py
+A  tests/test_engine.py
+A  tests/test_package.py
+A  tests/test_presenter.py
+A  tests/test_real_playback.py
+A  tests/test_release_gate.py
+A  tests/test_save.py
+A  tests/test_state.py
+A  thread
+?? AGENTS.md
+?? artifacts/
+?? docs/CINEMATIC_BITWISE_LEGO_ARCHITECTURE.md
+?? docs/REPOSITORY_CLEANUP_AUDIT.md
+?? docs/repository_cleanup_audit.json
+?? get-pip.py
+?? output/
+?? release/
+?? scratch/
+?? scripts/
+?? src/thread_runtime/brick.py
+?? src/thread_runtime/canonical_timeline.py
+?? src/thread_runtime/shot_manifest.py
+?? story/story_I/part_1/provenance/
+?? story/story_I/part_1/screenplay/FRAME_STATE_MATRIX.md
+?? story/story_I/part_1/screenplay/VISUAL_REFERENCE_MATRIX.md
+?? story/story_I/part_1/shots/
+?? tests/test_brick.py
+?? tests/test_canonical_timeline.py
+?? tests/test_shot_manifest.py
+
+DIFFSTAT:
+ src/thread_runtime/errors.py    |  12 ++++
+ src/thread_runtime/presenter.py |   9 +--
+ src/thread_runtime/renderer.py  | 141 ++++++++++++++++++++++------------------
+ 3 files changed, 93 insertions(+), 69 deletions(-)
+
+DIFFCHECK:
+
+LOG5:
+3df2985 Harden Python compatibility and version handling
+935250f Initialize THREAD runtime
+
+LSFILES:
+.env.example
+.gitignore
+LICENSE
+README.md
+docs/LINUX.md
+docs/RUNTIME_PRODUCTION_CONTRACT.md
+pyproject.toml
+src/thread_runtime/__init__.py
+src/thread_runtime/__main__.py
+src/thread_runtime/archive.py
+src/thread_runtime/audio.py
+src/thread_runtime/capabilities.py
+src/thread_runtime/cinematic.py
+src/thread_runtime/cinematic_game_engine.py
+src/thread_runtime/cli.py
+src/thread_runtime/engine.py
+src/thread_runtime/errors.py
+src/thread_runtime/model.py
+src/thread_runtime/package.py
+src/thread_runtime/playback_engine.py
+src/thread_runtime/presenter.py
+src/thread_runtime/provenance.py
+src/thread_runtime/release.py
+src/thread_runtime/renderer.py
+src/thread_runtime/runtime.py
+src/thread_runtime/save.py
+src/thread_runtime/story.py
+story/story_I/part_1/CHAIN_OF_TITLE.md
+story/story_I/part_1/CREDITS.md
+story/story_I/part_1/INSTALL.md
+story/story_I/part_1/MASTER_BIBLE.md
+story/story_I/part_1/PRODUCTION_MANIFEST.json
+story/story_I/part_1/QA_REPORT.md
+story/story_I/part_1/README.md
+story/story_I/part_1/STORY_NOTES.md
+story/story_I/part_1/assets/subtitles/english.vtt
+story/story_I/part_1/characters/CHARACTER_BIBLES.md
+story/story_I/part_1/research/CANON_AND_ADAPTATION.md
+story/story_I/part_1/screenplay/SCREENPLAY.md
+story/story_I/part_1/story.json
+story/story_I/part_1/story_i_part_1.json
+story/story_I/part_1/subtitles/english.vtt
+tests/test_archive.py
+tests/test_capabilities.py
+tests/test_cinematic.py
+tests/test_clean_environment.py
+tests/test_cli.py
+tests/test_engine.py
+tests/test_package.py
+tests/test_presenter.py
+tests/test_real_playback.py
+tests/test_release_gate.py
+tests/test_save.py
+tests/test_state.py
+thread

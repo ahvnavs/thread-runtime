@@ -1,0 +1,22 @@
+{
+  "package_format_version": "1.0",
+  "story_id": "hello-thread-demo",
+  "story_version": "1.0.0",
+  "title": "The Crossroads of Destiny",
+  "runtime_minimum": "0.1.0",
+  "author": "THREAD Runtime Team",
+  "description": "A demonstration narrative featuring interactive story branching and an end-to-end 32-second cinematic vertical slice.",
+  "built_at": "2026-09-03T17:36:30.737091+00:00",
+  "artifacts": {
+    "package": {
+      "file": "hello-thread-demo.threadpkg",
+      "sha256": "13e8d409dd99d12fbfd5ee513a14da3dd2460787ade5af1c6366a0b1c83d9172"
+    },
+    "video": {
+      "file": "hello-thread-demo_audiovisual.mp4",
+      "sha256": "2e4f8ce9c2f62e7fc485a76a5937619983b98ae62dc1da6b1efab99d5b2c764d"
+    }
+  },
+  "provenance_verified": true,
+  "asset_count": 6
+}

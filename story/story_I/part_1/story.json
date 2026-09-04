@@ -1,0 +1,104 @@
+{
+  "id": "story_i_part_1",
+  "title": "THREАD — Story I: Part 1 — The Aulis Strand",
+  "duration_ms": 120000,
+  "shots": [
+    {
+      "id": "shot_001",
+      "duration_ms": 10000,
+      "camera": { "framing": "extreme_wide", "subject": "ancient_aulis_landscape" },
+      "subtitles": [
+        { "start_ms": 1000, "end_ms": 8000, "text": "At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea." }
+      ]
+    },
+    {
+      "id": "shot_002",
+      "duration_ms": 10000,
+      "camera": { "framing": "wide", "subject": "greek_fleet_silhouettes" },
+      "subtitles": [
+        { "start_ms": 11000, "end_ms": 18000, "text": "The army rotted in the sun. Agamemnon watched from the high prow of his flagship." }
+      ]
+    },
+    {
+      "id": "shot_003",
+      "duration_ms": 10000,
+      "camera": { "framing": "medium", "subject": "iphigenia_altar_approach" },
+      "subtitles": [
+        { "start_ms": 21000, "end_ms": 28000, "text": "Iphigenia walked toward the granite altar, her white linen robe trailing across dust." }
+      ]
+    },
+    {
+      "id": "shot_004",
+      "duration_ms": 10000,
+      "camera": { "framing": "close", "subject": "iphigenia_facial_framing" },
+      "subtitles": [
+        { "start_ms": 31000, "end_ms": 38000, "text": "Her eyes held no fear—only the weight of a decree born before her birth." }
+      ]
+    },
+    {
+      "id": "shot_005",
+      "duration_ms": 10000,
+      "camera": { "framing": "wide", "subject": "agamemnon_dilemma" },
+      "subtitles": [
+        { "start_ms": 41000, "end_ms": 48000, "text": "A king who traded his daughter for a breeze to Troy." }
+      ]
+    },
+    {
+      "id": "shot_006",
+      "duration_ms": 10000,
+      "camera": { "framing": "medium", "subject": "altar_fire_flame" },
+      "subtitles": [
+        { "start_ms": 51000, "end_ms": 58000, "text": "The altar fire flickered against stone carved with forgotten runes." }
+      ]
+    },
+    {
+      "id": "shot_007",
+      "duration_ms": 10000,
+      "camera": { "framing": "close", "subject": "hand_extend_altar" },
+      "subtitles": [
+        { "start_ms": 61000, "end_ms": 68000, "text": "She reached out to touch the gold inlay." }
+      ]
+    },
+    {
+      "id": "shot_008",
+      "duration_ms": 10000,
+      "camera": { "framing": "close", "subject": "temporal_match_cut" },
+      "transition": { "type": "match_cut", "target_scene": "future_aulis_9" },
+      "subtitles": [
+        { "start_ms": 71000, "end_ms": 78000, "text": "[TEMPORAL MATCH CUT] Three thousand years later..." }
+      ]
+    },
+    {
+      "id": "shot_009",
+      "duration_ms": 10000,
+      "camera": { "framing": "close", "subject": "kaelen_core_node" },
+      "subtitles": [
+        { "start_ms": 81000, "end_ms": 88000, "text": "Kaelen's hand touched the glowing cyan conduit of Aulis-9." }
+      ]
+    },
+    {
+      "id": "shot_010",
+      "duration_ms": 10000,
+      "camera": { "framing": "extreme_wide", "subject": "aulis_9_orbital_structure" },
+      "subtitles": [
+        { "start_ms": 91000, "end_ms": 98000, "text": "An orbital core waiting for an identical sacrifice." }
+      ]
+    },
+    {
+      "id": "shot_011",
+      "duration_ms": 10000,
+      "camera": { "framing": "medium", "subject": "quantum_core_pulse" },
+      "subtitles": [
+        { "start_ms": 101000, "end_ms": 108000, "text": "The thread connects what time separates." }
+      ]
+    },
+    {
+      "id": "shot_012",
+      "duration_ms": 10000,
+      "camera": { "framing": "medium", "subject": "ending_beat" },
+      "subtitles": [
+        { "start_ms": 111000, "end_ms": 118000, "text": "The wind begins to rise." }
+      ]
+    }
+  ]
+}

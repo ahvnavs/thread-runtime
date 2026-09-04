@@ -1,0 +1,1441 @@
+frame_index,timestamp_us,time_seconds,shot_id,shot_local_frame,subtitles_active,audio_active
+0,0,0.000000,shot_001,0,,audio_001
+1,41667,0.041667,shot_001,1,,audio_001
+2,83333,0.083333,shot_001,2,,audio_001
+3,125000,0.125000,shot_001,3,,audio_001
+4,166667,0.166667,shot_001,4,,audio_001
+5,208333,0.208333,shot_001,5,,audio_001
+6,250000,0.250000,shot_001,6,,audio_001
+7,291667,0.291667,shot_001,7,,audio_001
+8,333333,0.333333,shot_001,8,,audio_001
+9,375000,0.375000,shot_001,9,,audio_001
+10,416667,0.416667,shot_001,10,,audio_001
+11,458333,0.458333,shot_001,11,,audio_001
+12,500000,0.500000,shot_001,12,,audio_001
+13,541667,0.541667,shot_001,13,,audio_001
+14,583333,0.583333,shot_001,14,,audio_001
+15,625000,0.625000,shot_001,15,,audio_001
+16,666667,0.666667,shot_001,16,,audio_001
+17,708333,0.708333,shot_001,17,,audio_001
+18,750000,0.750000,shot_001,18,,audio_001
+19,791667,0.791667,shot_001,19,,audio_001
+20,833333,0.833333,shot_001,20,,audio_001
+21,875000,0.875000,shot_001,21,,audio_001
+22,916667,0.916667,shot_001,22,,audio_001
+23,958333,0.958333,shot_001,23,,audio_001
+24,1000000,1.000000,shot_001,24,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+25,1041667,1.041667,shot_001,25,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+26,1083333,1.083333,shot_001,26,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+27,1125000,1.125000,shot_001,27,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+28,1166667,1.166667,shot_001,28,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+29,1208333,1.208333,shot_001,29,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+30,1250000,1.250000,shot_001,30,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+31,1291667,1.291667,shot_001,31,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+32,1333333,1.333333,shot_001,32,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+33,1375000,1.375000,shot_001,33,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+34,1416667,1.416667,shot_001,34,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+35,1458333,1.458333,shot_001,35,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+36,1500000,1.500000,shot_001,36,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+37,1541667,1.541667,shot_001,37,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+38,1583333,1.583333,shot_001,38,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+39,1625000,1.625000,shot_001,39,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+40,1666667,1.666667,shot_001,40,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+41,1708333,1.708333,shot_001,41,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+42,1750000,1.750000,shot_001,42,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+43,1791667,1.791667,shot_001,43,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+44,1833333,1.833333,shot_001,44,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+45,1875000,1.875000,shot_001,45,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+46,1916667,1.916667,shot_001,46,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+47,1958333,1.958333,shot_001,47,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+48,2000000,2.000000,shot_001,48,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+49,2041667,2.041667,shot_001,49,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+50,2083333,2.083333,shot_001,50,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+51,2125000,2.125000,shot_001,51,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+52,2166667,2.166667,shot_001,52,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+53,2208333,2.208333,shot_001,53,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+54,2250000,2.250000,shot_001,54,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+55,2291667,2.291667,shot_001,55,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+56,2333333,2.333333,shot_001,56,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+57,2375000,2.375000,shot_001,57,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+58,2416667,2.416667,shot_001,58,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+59,2458333,2.458333,shot_001,59,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+60,2500000,2.500000,shot_001,60,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+61,2541667,2.541667,shot_001,61,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+62,2583333,2.583333,shot_001,62,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+63,2625000,2.625000,shot_001,63,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+64,2666667,2.666667,shot_001,64,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+65,2708333,2.708333,shot_001,65,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+66,2750000,2.750000,shot_001,66,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+67,2791667,2.791667,shot_001,67,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+68,2833333,2.833333,shot_001,68,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+69,2875000,2.875000,shot_001,69,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+70,2916667,2.916667,shot_001,70,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+71,2958333,2.958333,shot_001,71,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+72,3000000,3.000000,shot_001,72,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+73,3041667,3.041667,shot_001,73,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+74,3083333,3.083333,shot_001,74,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+75,3125000,3.125000,shot_001,75,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+76,3166667,3.166667,shot_001,76,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+77,3208333,3.208333,shot_001,77,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+78,3250000,3.250000,shot_001,78,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+79,3291667,3.291667,shot_001,79,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+80,3333333,3.333333,shot_001,80,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+81,3375000,3.375000,shot_001,81,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+82,3416667,3.416667,shot_001,82,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+83,3458333,3.458333,shot_001,83,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+84,3500000,3.500000,shot_001,84,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+85,3541667,3.541667,shot_001,85,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+86,3583333,3.583333,shot_001,86,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+87,3625000,3.625000,shot_001,87,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+88,3666667,3.666667,shot_001,88,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+89,3708333,3.708333,shot_001,89,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+90,3750000,3.750000,shot_001,90,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+91,3791667,3.791667,shot_001,91,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+92,3833333,3.833333,shot_001,92,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+93,3875000,3.875000,shot_001,93,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+94,3916667,3.916667,shot_001,94,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+95,3958333,3.958333,shot_001,95,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+96,4000000,4.000000,shot_001,96,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+97,4041667,4.041667,shot_001,97,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+98,4083333,4.083333,shot_001,98,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+99,4125000,4.125000,shot_001,99,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+100,4166667,4.166667,shot_001,100,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+101,4208333,4.208333,shot_001,101,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+102,4250000,4.250000,shot_001,102,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+103,4291667,4.291667,shot_001,103,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+104,4333333,4.333333,shot_001,104,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+105,4375000,4.375000,shot_001,105,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+106,4416667,4.416667,shot_001,106,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+107,4458333,4.458333,shot_001,107,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+108,4500000,4.500000,shot_001,108,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+109,4541667,4.541667,shot_001,109,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+110,4583333,4.583333,shot_001,110,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+111,4625000,4.625000,shot_001,111,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+112,4666667,4.666667,shot_001,112,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+113,4708333,4.708333,shot_001,113,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+114,4750000,4.750000,shot_001,114,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+115,4791667,4.791667,shot_001,115,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+116,4833333,4.833333,shot_001,116,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+117,4875000,4.875000,shot_001,117,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+118,4916667,4.916667,shot_001,118,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+119,4958333,4.958333,shot_001,119,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+120,5000000,5.000000,shot_001,120,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+121,5041667,5.041667,shot_001,121,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+122,5083333,5.083333,shot_001,122,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+123,5125000,5.125000,shot_001,123,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+124,5166667,5.166667,shot_001,124,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+125,5208333,5.208333,shot_001,125,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+126,5250000,5.250000,shot_001,126,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+127,5291667,5.291667,shot_001,127,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+128,5333333,5.333333,shot_001,128,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+129,5375000,5.375000,shot_001,129,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+130,5416667,5.416667,shot_001,130,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+131,5458333,5.458333,shot_001,131,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea.",audio_001
+132,5500000,5.500000,shot_001,132,,audio_001
+133,5541667,5.541667,shot_001,133,,audio_001
+134,5583333,5.583333,shot_001,134,,audio_001
+135,5625000,5.625000,shot_001,135,,audio_001
+136,5666667,5.666667,shot_001,136,,audio_001
+137,5708333,5.708333,shot_001,137,,audio_001
+138,5750000,5.750000,shot_001,138,,audio_001
+139,5791667,5.791667,shot_001,139,,audio_001
+140,5833333,5.833333,shot_001,140,,audio_001
+141,5875000,5.875000,shot_001,141,,audio_001
+142,5916667,5.916667,shot_001,142,,audio_001
+143,5958333,5.958333,shot_001,143,,audio_001
+144,6000000,6.000000,shot_002,0,,audio_001 | audio_002
+145,6041667,6.041667,shot_002,1,,audio_001 | audio_002
+146,6083333,6.083333,shot_002,2,,audio_001 | audio_002
+147,6125000,6.125000,shot_002,3,,audio_001 | audio_002
+148,6166667,6.166667,shot_002,4,,audio_001 | audio_002
+149,6208333,6.208333,shot_002,5,,audio_001 | audio_002
+150,6250000,6.250000,shot_002,6,,audio_001 | audio_002
+151,6291667,6.291667,shot_002,7,,audio_001 | audio_002
+152,6333333,6.333333,shot_002,8,,audio_001 | audio_002
+153,6375000,6.375000,shot_002,9,,audio_001 | audio_002
+154,6416667,6.416667,shot_002,10,,audio_001 | audio_002
+155,6458333,6.458333,shot_002,11,,audio_001 | audio_002
+156,6500000,6.500000,shot_002,12,,audio_001 | audio_002
+157,6541667,6.541667,shot_002,13,,audio_001 | audio_002
+158,6583333,6.583333,shot_002,14,,audio_001 | audio_002
+159,6625000,6.625000,shot_002,15,,audio_001 | audio_002
+160,6666667,6.666667,shot_002,16,,audio_001 | audio_002
+161,6708333,6.708333,shot_002,17,,audio_001 | audio_002
+162,6750000,6.750000,shot_002,18,,audio_001 | audio_002
+163,6791667,6.791667,shot_002,19,,audio_001 | audio_002
+164,6833333,6.833333,shot_002,20,,audio_001 | audio_002
+165,6875000,6.875000,shot_002,21,,audio_001 | audio_002
+166,6916667,6.916667,shot_002,22,,audio_001 | audio_002
+167,6958333,6.958333,shot_002,23,,audio_001 | audio_002
+168,7000000,7.000000,shot_002,24,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+169,7041667,7.041667,shot_002,25,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+170,7083333,7.083333,shot_002,26,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+171,7125000,7.125000,shot_002,27,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+172,7166667,7.166667,shot_002,28,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+173,7208333,7.208333,shot_002,29,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+174,7250000,7.250000,shot_002,30,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+175,7291667,7.291667,shot_002,31,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+176,7333333,7.333333,shot_002,32,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+177,7375000,7.375000,shot_002,33,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+178,7416667,7.416667,shot_002,34,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+179,7458333,7.458333,shot_002,35,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+180,7500000,7.500000,shot_002,36,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+181,7541667,7.541667,shot_002,37,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+182,7583333,7.583333,shot_002,38,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+183,7625000,7.625000,shot_002,39,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+184,7666667,7.666667,shot_002,40,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+185,7708333,7.708333,shot_002,41,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+186,7750000,7.750000,shot_002,42,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+187,7791667,7.791667,shot_002,43,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+188,7833333,7.833333,shot_002,44,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+189,7875000,7.875000,shot_002,45,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+190,7916667,7.916667,shot_002,46,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+191,7958333,7.958333,shot_002,47,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+192,8000000,8.000000,shot_002,48,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+193,8041667,8.041667,shot_002,49,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+194,8083333,8.083333,shot_002,50,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+195,8125000,8.125000,shot_002,51,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+196,8166667,8.166667,shot_002,52,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+197,8208333,8.208333,shot_002,53,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+198,8250000,8.250000,shot_002,54,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+199,8291667,8.291667,shot_002,55,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+200,8333333,8.333333,shot_002,56,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+201,8375000,8.375000,shot_002,57,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+202,8416667,8.416667,shot_002,58,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+203,8458333,8.458333,shot_002,59,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+204,8500000,8.500000,shot_002,60,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+205,8541667,8.541667,shot_002,61,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+206,8583333,8.583333,shot_002,62,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+207,8625000,8.625000,shot_002,63,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+208,8666667,8.666667,shot_002,64,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+209,8708333,8.708333,shot_002,65,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+210,8750000,8.750000,shot_002,66,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+211,8791667,8.791667,shot_002,67,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+212,8833333,8.833333,shot_002,68,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+213,8875000,8.875000,shot_002,69,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+214,8916667,8.916667,shot_002,70,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+215,8958333,8.958333,shot_002,71,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+216,9000000,9.000000,shot_002,72,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+217,9041667,9.041667,shot_002,73,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+218,9083333,9.083333,shot_002,74,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+219,9125000,9.125000,shot_002,75,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+220,9166667,9.166667,shot_002,76,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+221,9208333,9.208333,shot_002,77,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+222,9250000,9.250000,shot_002,78,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+223,9291667,9.291667,shot_002,79,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+224,9333333,9.333333,shot_002,80,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+225,9375000,9.375000,shot_002,81,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+226,9416667,9.416667,shot_002,82,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+227,9458333,9.458333,shot_002,83,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+228,9500000,9.500000,shot_002,84,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+229,9541667,9.541667,shot_002,85,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+230,9583333,9.583333,shot_002,86,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+231,9625000,9.625000,shot_002,87,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+232,9666667,9.666667,shot_002,88,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+233,9708333,9.708333,shot_002,89,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+234,9750000,9.750000,shot_002,90,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+235,9791667,9.791667,shot_002,91,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+236,9833333,9.833333,shot_002,92,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+237,9875000,9.875000,shot_002,93,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+238,9916667,9.916667,shot_002,94,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+239,9958333,9.958333,shot_002,95,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+240,10000000,10.000000,shot_002,96,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+241,10041667,10.041667,shot_002,97,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+242,10083333,10.083333,shot_002,98,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+243,10125000,10.125000,shot_002,99,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+244,10166667,10.166667,shot_002,100,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+245,10208333,10.208333,shot_002,101,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+246,10250000,10.250000,shot_002,102,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+247,10291667,10.291667,shot_002,103,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+248,10333333,10.333333,shot_002,104,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+249,10375000,10.375000,shot_002,105,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+250,10416667,10.416667,shot_002,106,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+251,10458333,10.458333,shot_002,107,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+252,10500000,10.500000,shot_002,108,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+253,10541667,10.541667,shot_002,109,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+254,10583333,10.583333,shot_002,110,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+255,10625000,10.625000,shot_002,111,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+256,10666667,10.666667,shot_002,112,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+257,10708333,10.708333,shot_002,113,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+258,10750000,10.750000,shot_002,114,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+259,10791667,10.791667,shot_002,115,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+260,10833333,10.833333,shot_002,116,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+261,10875000,10.875000,shot_002,117,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+262,10916667,10.916667,shot_002,118,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+263,10958333,10.958333,shot_002,119,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+264,11000000,11.000000,shot_002,120,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+265,11041667,11.041667,shot_002,121,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+266,11083333,11.083333,shot_002,122,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+267,11125000,11.125000,shot_002,123,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+268,11166667,11.166667,shot_002,124,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+269,11208333,11.208333,shot_002,125,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+270,11250000,11.250000,shot_002,126,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+271,11291667,11.291667,shot_002,127,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+272,11333333,11.333333,shot_002,128,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+273,11375000,11.375000,shot_002,129,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+274,11416667,11.416667,shot_002,130,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+275,11458333,11.458333,shot_002,131,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.,audio_001 | audio_002
+276,11500000,11.500000,shot_002,132,,audio_001 | audio_002
+277,11541667,11.541667,shot_002,133,,audio_001 | audio_002
+278,11583333,11.583333,shot_002,134,,audio_001 | audio_002
+279,11625000,11.625000,shot_002,135,,audio_001 | audio_002
+280,11666667,11.666667,shot_002,136,,audio_001 | audio_002
+281,11708333,11.708333,shot_002,137,,audio_001 | audio_002
+282,11750000,11.750000,shot_002,138,,audio_001 | audio_002
+283,11791667,11.791667,shot_002,139,,audio_001 | audio_002
+284,11833333,11.833333,shot_002,140,,audio_001 | audio_002
+285,11875000,11.875000,shot_002,141,,audio_001 | audio_002
+286,11916667,11.916667,shot_002,142,,audio_001 | audio_002
+287,11958333,11.958333,shot_002,143,,audio_001 | audio_002
+288,12000000,12.000000,shot_003,0,,audio_003
+289,12041667,12.041667,shot_003,1,,audio_003
+290,12083333,12.083333,shot_003,2,,audio_003
+291,12125000,12.125000,shot_003,3,,audio_003
+292,12166667,12.166667,shot_003,4,,audio_003
+293,12208333,12.208333,shot_003,5,,audio_003
+294,12250000,12.250000,shot_003,6,,audio_003
+295,12291667,12.291667,shot_003,7,,audio_003
+296,12333333,12.333333,shot_003,8,,audio_003
+297,12375000,12.375000,shot_003,9,,audio_003
+298,12416667,12.416667,shot_003,10,,audio_003
+299,12458333,12.458333,shot_003,11,,audio_003
+300,12500000,12.500000,shot_003,12,,audio_003
+301,12541667,12.541667,shot_003,13,,audio_003
+302,12583333,12.583333,shot_003,14,,audio_003
+303,12625000,12.625000,shot_003,15,,audio_003
+304,12666667,12.666667,shot_003,16,,audio_003
+305,12708333,12.708333,shot_003,17,,audio_003
+306,12750000,12.750000,shot_003,18,,audio_003
+307,12791667,12.791667,shot_003,19,,audio_003
+308,12833333,12.833333,shot_003,20,,audio_003
+309,12875000,12.875000,shot_003,21,,audio_003
+310,12916667,12.916667,shot_003,22,,audio_003
+311,12958333,12.958333,shot_003,23,,audio_003
+312,13000000,13.000000,shot_003,24,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+313,13041667,13.041667,shot_003,25,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+314,13083333,13.083333,shot_003,26,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+315,13125000,13.125000,shot_003,27,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+316,13166667,13.166667,shot_003,28,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+317,13208333,13.208333,shot_003,29,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+318,13250000,13.250000,shot_003,30,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+319,13291667,13.291667,shot_003,31,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+320,13333333,13.333333,shot_003,32,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+321,13375000,13.375000,shot_003,33,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+322,13416667,13.416667,shot_003,34,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+323,13458333,13.458333,shot_003,35,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+324,13500000,13.500000,shot_003,36,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+325,13541667,13.541667,shot_003,37,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+326,13583333,13.583333,shot_003,38,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+327,13625000,13.625000,shot_003,39,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+328,13666667,13.666667,shot_003,40,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+329,13708333,13.708333,shot_003,41,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+330,13750000,13.750000,shot_003,42,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+331,13791667,13.791667,shot_003,43,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+332,13833333,13.833333,shot_003,44,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+333,13875000,13.875000,shot_003,45,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+334,13916667,13.916667,shot_003,46,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+335,13958333,13.958333,shot_003,47,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+336,14000000,14.000000,shot_003,48,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+337,14041667,14.041667,shot_003,49,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+338,14083333,14.083333,shot_003,50,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+339,14125000,14.125000,shot_003,51,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+340,14166667,14.166667,shot_003,52,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+341,14208333,14.208333,shot_003,53,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+342,14250000,14.250000,shot_003,54,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+343,14291667,14.291667,shot_003,55,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+344,14333333,14.333333,shot_003,56,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+345,14375000,14.375000,shot_003,57,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+346,14416667,14.416667,shot_003,58,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+347,14458333,14.458333,shot_003,59,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+348,14500000,14.500000,shot_003,60,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+349,14541667,14.541667,shot_003,61,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+350,14583333,14.583333,shot_003,62,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+351,14625000,14.625000,shot_003,63,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+352,14666667,14.666667,shot_003,64,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+353,14708333,14.708333,shot_003,65,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+354,14750000,14.750000,shot_003,66,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+355,14791667,14.791667,shot_003,67,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+356,14833333,14.833333,shot_003,68,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+357,14875000,14.875000,shot_003,69,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+358,14916667,14.916667,shot_003,70,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+359,14958333,14.958333,shot_003,71,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+360,15000000,15.000000,shot_003,72,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+361,15041667,15.041667,shot_003,73,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+362,15083333,15.083333,shot_003,74,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+363,15125000,15.125000,shot_003,75,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+364,15166667,15.166667,shot_003,76,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+365,15208333,15.208333,shot_003,77,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+366,15250000,15.250000,shot_003,78,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+367,15291667,15.291667,shot_003,79,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+368,15333333,15.333333,shot_003,80,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+369,15375000,15.375000,shot_003,81,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+370,15416667,15.416667,shot_003,82,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+371,15458333,15.458333,shot_003,83,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+372,15500000,15.500000,shot_003,84,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+373,15541667,15.541667,shot_003,85,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+374,15583333,15.583333,shot_003,86,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+375,15625000,15.625000,shot_003,87,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+376,15666667,15.666667,shot_003,88,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+377,15708333,15.708333,shot_003,89,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+378,15750000,15.750000,shot_003,90,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+379,15791667,15.791667,shot_003,91,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+380,15833333,15.833333,shot_003,92,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+381,15875000,15.875000,shot_003,93,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+382,15916667,15.916667,shot_003,94,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+383,15958333,15.958333,shot_003,95,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+384,16000000,16.000000,shot_003,96,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+385,16041667,16.041667,shot_003,97,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+386,16083333,16.083333,shot_003,98,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+387,16125000,16.125000,shot_003,99,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+388,16166667,16.166667,shot_003,100,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+389,16208333,16.208333,shot_003,101,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+390,16250000,16.250000,shot_003,102,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+391,16291667,16.291667,shot_003,103,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+392,16333333,16.333333,shot_003,104,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+393,16375000,16.375000,shot_003,105,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+394,16416667,16.416667,shot_003,106,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+395,16458333,16.458333,shot_003,107,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+396,16500000,16.500000,shot_003,108,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+397,16541667,16.541667,shot_003,109,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+398,16583333,16.583333,shot_003,110,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+399,16625000,16.625000,shot_003,111,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+400,16666667,16.666667,shot_003,112,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+401,16708333,16.708333,shot_003,113,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+402,16750000,16.750000,shot_003,114,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+403,16791667,16.791667,shot_003,115,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+404,16833333,16.833333,shot_003,116,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+405,16875000,16.875000,shot_003,117,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+406,16916667,16.916667,shot_003,118,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+407,16958333,16.958333,shot_003,119,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+408,17000000,17.000000,shot_003,120,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+409,17041667,17.041667,shot_003,121,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+410,17083333,17.083333,shot_003,122,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+411,17125000,17.125000,shot_003,123,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+412,17166667,17.166667,shot_003,124,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+413,17208333,17.208333,shot_003,125,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+414,17250000,17.250000,shot_003,126,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+415,17291667,17.291667,shot_003,127,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+416,17333333,17.333333,shot_003,128,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+417,17375000,17.375000,shot_003,129,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+418,17416667,17.416667,shot_003,130,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+419,17458333,17.458333,shot_003,131,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust.",audio_003
+420,17500000,17.500000,shot_003,132,,audio_003
+421,17541667,17.541667,shot_003,133,,audio_003
+422,17583333,17.583333,shot_003,134,,audio_003
+423,17625000,17.625000,shot_003,135,,audio_003
+424,17666667,17.666667,shot_003,136,,audio_003
+425,17708333,17.708333,shot_003,137,,audio_003
+426,17750000,17.750000,shot_003,138,,audio_003
+427,17791667,17.791667,shot_003,139,,audio_003
+428,17833333,17.833333,shot_003,140,,audio_003
+429,17875000,17.875000,shot_003,141,,audio_003
+430,17916667,17.916667,shot_003,142,,audio_003
+431,17958333,17.958333,shot_003,143,,audio_003
+432,18000000,18.000000,shot_004,0,,audio_003 | audio_004
+433,18041667,18.041667,shot_004,1,,audio_003 | audio_004
+434,18083333,18.083333,shot_004,2,,audio_003 | audio_004
+435,18125000,18.125000,shot_004,3,,audio_003 | audio_004
+436,18166667,18.166667,shot_004,4,,audio_003 | audio_004
+437,18208333,18.208333,shot_004,5,,audio_003 | audio_004
+438,18250000,18.250000,shot_004,6,,audio_003 | audio_004
+439,18291667,18.291667,shot_004,7,,audio_003 | audio_004
+440,18333333,18.333333,shot_004,8,,audio_003 | audio_004
+441,18375000,18.375000,shot_004,9,,audio_003 | audio_004
+442,18416667,18.416667,shot_004,10,,audio_003 | audio_004
+443,18458333,18.458333,shot_004,11,,audio_003 | audio_004
+444,18500000,18.500000,shot_004,12,,audio_003 | audio_004
+445,18541667,18.541667,shot_004,13,,audio_003 | audio_004
+446,18583333,18.583333,shot_004,14,,audio_003 | audio_004
+447,18625000,18.625000,shot_004,15,,audio_003 | audio_004
+448,18666667,18.666667,shot_004,16,,audio_003 | audio_004
+449,18708333,18.708333,shot_004,17,,audio_003 | audio_004
+450,18750000,18.750000,shot_004,18,,audio_003 | audio_004
+451,18791667,18.791667,shot_004,19,,audio_003 | audio_004
+452,18833333,18.833333,shot_004,20,,audio_003 | audio_004
+453,18875000,18.875000,shot_004,21,,audio_003 | audio_004
+454,18916667,18.916667,shot_004,22,,audio_003 | audio_004
+455,18958333,18.958333,shot_004,23,,audio_003 | audio_004
+456,19000000,19.000000,shot_004,24,Forgive me... the winds demand their toll.,audio_003 | audio_004
+457,19041667,19.041667,shot_004,25,Forgive me... the winds demand their toll.,audio_003 | audio_004
+458,19083333,19.083333,shot_004,26,Forgive me... the winds demand their toll.,audio_003 | audio_004
+459,19125000,19.125000,shot_004,27,Forgive me... the winds demand their toll.,audio_003 | audio_004
+460,19166667,19.166667,shot_004,28,Forgive me... the winds demand their toll.,audio_003 | audio_004
+461,19208333,19.208333,shot_004,29,Forgive me... the winds demand their toll.,audio_003 | audio_004
+462,19250000,19.250000,shot_004,30,Forgive me... the winds demand their toll.,audio_003 | audio_004
+463,19291667,19.291667,shot_004,31,Forgive me... the winds demand their toll.,audio_003 | audio_004
+464,19333333,19.333333,shot_004,32,Forgive me... the winds demand their toll.,audio_003 | audio_004
+465,19375000,19.375000,shot_004,33,Forgive me... the winds demand their toll.,audio_003 | audio_004
+466,19416667,19.416667,shot_004,34,Forgive me... the winds demand their toll.,audio_003 | audio_004
+467,19458333,19.458333,shot_004,35,Forgive me... the winds demand their toll.,audio_003 | audio_004
+468,19500000,19.500000,shot_004,36,Forgive me... the winds demand their toll.,audio_003 | audio_004
+469,19541667,19.541667,shot_004,37,Forgive me... the winds demand their toll.,audio_003 | audio_004
+470,19583333,19.583333,shot_004,38,Forgive me... the winds demand their toll.,audio_003 | audio_004
+471,19625000,19.625000,shot_004,39,Forgive me... the winds demand their toll.,audio_003 | audio_004
+472,19666667,19.666667,shot_004,40,Forgive me... the winds demand their toll.,audio_003 | audio_004
+473,19708333,19.708333,shot_004,41,Forgive me... the winds demand their toll.,audio_003 | audio_004
+474,19750000,19.750000,shot_004,42,Forgive me... the winds demand their toll.,audio_003 | audio_004
+475,19791667,19.791667,shot_004,43,Forgive me... the winds demand their toll.,audio_003 | audio_004
+476,19833333,19.833333,shot_004,44,Forgive me... the winds demand their toll.,audio_003 | audio_004
+477,19875000,19.875000,shot_004,45,Forgive me... the winds demand their toll.,audio_003 | audio_004
+478,19916667,19.916667,shot_004,46,Forgive me... the winds demand their toll.,audio_003 | audio_004
+479,19958333,19.958333,shot_004,47,Forgive me... the winds demand their toll.,audio_003 | audio_004
+480,20000000,20.000000,shot_004,48,Forgive me... the winds demand their toll.,audio_003 | audio_004
+481,20041667,20.041667,shot_004,49,Forgive me... the winds demand their toll.,audio_003 | audio_004
+482,20083333,20.083333,shot_004,50,Forgive me... the winds demand their toll.,audio_003 | audio_004
+483,20125000,20.125000,shot_004,51,Forgive me... the winds demand their toll.,audio_003 | audio_004
+484,20166667,20.166667,shot_004,52,Forgive me... the winds demand their toll.,audio_003 | audio_004
+485,20208333,20.208333,shot_004,53,Forgive me... the winds demand their toll.,audio_003 | audio_004
+486,20250000,20.250000,shot_004,54,Forgive me... the winds demand their toll.,audio_003 | audio_004
+487,20291667,20.291667,shot_004,55,Forgive me... the winds demand their toll.,audio_003 | audio_004
+488,20333333,20.333333,shot_004,56,Forgive me... the winds demand their toll.,audio_003 | audio_004
+489,20375000,20.375000,shot_004,57,Forgive me... the winds demand their toll.,audio_003 | audio_004
+490,20416667,20.416667,shot_004,58,Forgive me... the winds demand their toll.,audio_003 | audio_004
+491,20458333,20.458333,shot_004,59,Forgive me... the winds demand their toll.,audio_003 | audio_004
+492,20500000,20.500000,shot_004,60,Forgive me... the winds demand their toll.,audio_003 | audio_004
+493,20541667,20.541667,shot_004,61,Forgive me... the winds demand their toll.,audio_003 | audio_004
+494,20583333,20.583333,shot_004,62,Forgive me... the winds demand their toll.,audio_003 | audio_004
+495,20625000,20.625000,shot_004,63,Forgive me... the winds demand their toll.,audio_003 | audio_004
+496,20666667,20.666667,shot_004,64,Forgive me... the winds demand their toll.,audio_003 | audio_004
+497,20708333,20.708333,shot_004,65,Forgive me... the winds demand their toll.,audio_003 | audio_004
+498,20750000,20.750000,shot_004,66,Forgive me... the winds demand their toll.,audio_003 | audio_004
+499,20791667,20.791667,shot_004,67,Forgive me... the winds demand their toll.,audio_003 | audio_004
+500,20833333,20.833333,shot_004,68,Forgive me... the winds demand their toll.,audio_003 | audio_004
+501,20875000,20.875000,shot_004,69,Forgive me... the winds demand their toll.,audio_003 | audio_004
+502,20916667,20.916667,shot_004,70,Forgive me... the winds demand their toll.,audio_003 | audio_004
+503,20958333,20.958333,shot_004,71,Forgive me... the winds demand their toll.,audio_003 | audio_004
+504,21000000,21.000000,shot_004,72,Forgive me... the winds demand their toll.,audio_003 | audio_004
+505,21041667,21.041667,shot_004,73,Forgive me... the winds demand their toll.,audio_003 | audio_004
+506,21083333,21.083333,shot_004,74,Forgive me... the winds demand their toll.,audio_003 | audio_004
+507,21125000,21.125000,shot_004,75,Forgive me... the winds demand their toll.,audio_003 | audio_004
+508,21166667,21.166667,shot_004,76,Forgive me... the winds demand their toll.,audio_003 | audio_004
+509,21208333,21.208333,shot_004,77,Forgive me... the winds demand their toll.,audio_003 | audio_004
+510,21250000,21.250000,shot_004,78,Forgive me... the winds demand their toll.,audio_003 | audio_004
+511,21291667,21.291667,shot_004,79,Forgive me... the winds demand their toll.,audio_003 | audio_004
+512,21333333,21.333333,shot_004,80,Forgive me... the winds demand their toll.,audio_003 | audio_004
+513,21375000,21.375000,shot_004,81,Forgive me... the winds demand their toll.,audio_003 | audio_004
+514,21416667,21.416667,shot_004,82,Forgive me... the winds demand their toll.,audio_003 | audio_004
+515,21458333,21.458333,shot_004,83,Forgive me... the winds demand their toll.,audio_003 | audio_004
+516,21500000,21.500000,shot_004,84,Forgive me... the winds demand their toll.,audio_003 | audio_004
+517,21541667,21.541667,shot_004,85,Forgive me... the winds demand their toll.,audio_003 | audio_004
+518,21583333,21.583333,shot_004,86,Forgive me... the winds demand their toll.,audio_003 | audio_004
+519,21625000,21.625000,shot_004,87,Forgive me... the winds demand their toll.,audio_003 | audio_004
+520,21666667,21.666667,shot_004,88,Forgive me... the winds demand their toll.,audio_003 | audio_004
+521,21708333,21.708333,shot_004,89,Forgive me... the winds demand their toll.,audio_003 | audio_004
+522,21750000,21.750000,shot_004,90,Forgive me... the winds demand their toll.,audio_003 | audio_004
+523,21791667,21.791667,shot_004,91,Forgive me... the winds demand their toll.,audio_003 | audio_004
+524,21833333,21.833333,shot_004,92,Forgive me... the winds demand their toll.,audio_003 | audio_004
+525,21875000,21.875000,shot_004,93,Forgive me... the winds demand their toll.,audio_003 | audio_004
+526,21916667,21.916667,shot_004,94,Forgive me... the winds demand their toll.,audio_003 | audio_004
+527,21958333,21.958333,shot_004,95,Forgive me... the winds demand their toll.,audio_003 | audio_004
+528,22000000,22.000000,shot_004,96,Forgive me... the winds demand their toll.,audio_003 | audio_004
+529,22041667,22.041667,shot_004,97,Forgive me... the winds demand their toll.,audio_003 | audio_004
+530,22083333,22.083333,shot_004,98,Forgive me... the winds demand their toll.,audio_003 | audio_004
+531,22125000,22.125000,shot_004,99,Forgive me... the winds demand their toll.,audio_003 | audio_004
+532,22166667,22.166667,shot_004,100,Forgive me... the winds demand their toll.,audio_003 | audio_004
+533,22208333,22.208333,shot_004,101,Forgive me... the winds demand their toll.,audio_003 | audio_004
+534,22250000,22.250000,shot_004,102,Forgive me... the winds demand their toll.,audio_003 | audio_004
+535,22291667,22.291667,shot_004,103,Forgive me... the winds demand their toll.,audio_003 | audio_004
+536,22333333,22.333333,shot_004,104,Forgive me... the winds demand their toll.,audio_003 | audio_004
+537,22375000,22.375000,shot_004,105,Forgive me... the winds demand their toll.,audio_003 | audio_004
+538,22416667,22.416667,shot_004,106,Forgive me... the winds demand their toll.,audio_003 | audio_004
+539,22458333,22.458333,shot_004,107,Forgive me... the winds demand their toll.,audio_003 | audio_004
+540,22500000,22.500000,shot_004,108,Forgive me... the winds demand their toll.,audio_003 | audio_004
+541,22541667,22.541667,shot_004,109,Forgive me... the winds demand their toll.,audio_003 | audio_004
+542,22583333,22.583333,shot_004,110,Forgive me... the winds demand their toll.,audio_003 | audio_004
+543,22625000,22.625000,shot_004,111,Forgive me... the winds demand their toll.,audio_003 | audio_004
+544,22666667,22.666667,shot_004,112,Forgive me... the winds demand their toll.,audio_003 | audio_004
+545,22708333,22.708333,shot_004,113,Forgive me... the winds demand their toll.,audio_003 | audio_004
+546,22750000,22.750000,shot_004,114,Forgive me... the winds demand their toll.,audio_003 | audio_004
+547,22791667,22.791667,shot_004,115,Forgive me... the winds demand their toll.,audio_003 | audio_004
+548,22833333,22.833333,shot_004,116,Forgive me... the winds demand their toll.,audio_003 | audio_004
+549,22875000,22.875000,shot_004,117,Forgive me... the winds demand their toll.,audio_003 | audio_004
+550,22916667,22.916667,shot_004,118,Forgive me... the winds demand their toll.,audio_003 | audio_004
+551,22958333,22.958333,shot_004,119,Forgive me... the winds demand their toll.,audio_003 | audio_004
+552,23000000,23.000000,shot_004,120,Forgive me... the winds demand their toll.,audio_003 | audio_004
+553,23041667,23.041667,shot_004,121,Forgive me... the winds demand their toll.,audio_003 | audio_004
+554,23083333,23.083333,shot_004,122,Forgive me... the winds demand their toll.,audio_003 | audio_004
+555,23125000,23.125000,shot_004,123,Forgive me... the winds demand their toll.,audio_003 | audio_004
+556,23166667,23.166667,shot_004,124,Forgive me... the winds demand their toll.,audio_003 | audio_004
+557,23208333,23.208333,shot_004,125,Forgive me... the winds demand their toll.,audio_003 | audio_004
+558,23250000,23.250000,shot_004,126,Forgive me... the winds demand their toll.,audio_003 | audio_004
+559,23291667,23.291667,shot_004,127,Forgive me... the winds demand their toll.,audio_003 | audio_004
+560,23333333,23.333333,shot_004,128,Forgive me... the winds demand their toll.,audio_003 | audio_004
+561,23375000,23.375000,shot_004,129,Forgive me... the winds demand their toll.,audio_003 | audio_004
+562,23416667,23.416667,shot_004,130,Forgive me... the winds demand their toll.,audio_003 | audio_004
+563,23458333,23.458333,shot_004,131,Forgive me... the winds demand their toll.,audio_003 | audio_004
+564,23500000,23.500000,shot_004,132,,audio_003 | audio_004
+565,23541667,23.541667,shot_004,133,,audio_003 | audio_004
+566,23583333,23.583333,shot_004,134,,audio_003 | audio_004
+567,23625000,23.625000,shot_004,135,,audio_003 | audio_004
+568,23666667,23.666667,shot_004,136,,audio_003 | audio_004
+569,23708333,23.708333,shot_004,137,,audio_003 | audio_004
+570,23750000,23.750000,shot_004,138,,audio_003 | audio_004
+571,23791667,23.791667,shot_004,139,,audio_003 | audio_004
+572,23833333,23.833333,shot_004,140,,audio_003 | audio_004
+573,23875000,23.875000,shot_004,141,,audio_003 | audio_004
+574,23916667,23.916667,shot_004,142,,audio_003 | audio_004
+575,23958333,23.958333,shot_004,143,,audio_003 | audio_004
+576,24000000,24.000000,shot_005,0,,
+577,24041667,24.041667,shot_005,1,,
+578,24083333,24.083333,shot_005,2,,
+579,24125000,24.125000,shot_005,3,,
+580,24166667,24.166667,shot_005,4,,
+581,24208333,24.208333,shot_005,5,,
+582,24250000,24.250000,shot_005,6,,
+583,24291667,24.291667,shot_005,7,,
+584,24333333,24.333333,shot_005,8,,
+585,24375000,24.375000,shot_005,9,,
+586,24416667,24.416667,shot_005,10,,
+587,24458333,24.458333,shot_005,11,,
+588,24500000,24.500000,shot_005,12,,
+589,24541667,24.541667,shot_005,13,,
+590,24583333,24.583333,shot_005,14,,
+591,24625000,24.625000,shot_005,15,,
+592,24666667,24.666667,shot_005,16,,
+593,24708333,24.708333,shot_005,17,,
+594,24750000,24.750000,shot_005,18,,
+595,24791667,24.791667,shot_005,19,,
+596,24833333,24.833333,shot_005,20,,
+597,24875000,24.875000,shot_005,21,,
+598,24916667,24.916667,shot_005,22,,
+599,24958333,24.958333,shot_005,23,,
+600,25000000,25.000000,shot_005,24,She reached out to touch the gold inlay.,audio_005
+601,25041667,25.041667,shot_005,25,She reached out to touch the gold inlay.,audio_005
+602,25083333,25.083333,shot_005,26,She reached out to touch the gold inlay.,audio_005
+603,25125000,25.125000,shot_005,27,She reached out to touch the gold inlay.,audio_005
+604,25166667,25.166667,shot_005,28,She reached out to touch the gold inlay.,audio_005
+605,25208333,25.208333,shot_005,29,She reached out to touch the gold inlay.,audio_005
+606,25250000,25.250000,shot_005,30,She reached out to touch the gold inlay.,audio_005
+607,25291667,25.291667,shot_005,31,She reached out to touch the gold inlay.,audio_005
+608,25333333,25.333333,shot_005,32,She reached out to touch the gold inlay.,audio_005
+609,25375000,25.375000,shot_005,33,She reached out to touch the gold inlay.,audio_005
+610,25416667,25.416667,shot_005,34,She reached out to touch the gold inlay.,audio_005
+611,25458333,25.458333,shot_005,35,She reached out to touch the gold inlay.,audio_005
+612,25500000,25.500000,shot_005,36,She reached out to touch the gold inlay.,audio_005
+613,25541667,25.541667,shot_005,37,She reached out to touch the gold inlay.,audio_005
+614,25583333,25.583333,shot_005,38,She reached out to touch the gold inlay.,audio_005
+615,25625000,25.625000,shot_005,39,She reached out to touch the gold inlay.,audio_005
+616,25666667,25.666667,shot_005,40,She reached out to touch the gold inlay.,audio_005
+617,25708333,25.708333,shot_005,41,She reached out to touch the gold inlay.,audio_005
+618,25750000,25.750000,shot_005,42,She reached out to touch the gold inlay.,audio_005
+619,25791667,25.791667,shot_005,43,She reached out to touch the gold inlay.,audio_005
+620,25833333,25.833333,shot_005,44,She reached out to touch the gold inlay.,audio_005
+621,25875000,25.875000,shot_005,45,She reached out to touch the gold inlay.,audio_005
+622,25916667,25.916667,shot_005,46,She reached out to touch the gold inlay.,audio_005
+623,25958333,25.958333,shot_005,47,She reached out to touch the gold inlay.,audio_005
+624,26000000,26.000000,shot_005,48,She reached out to touch the gold inlay.,audio_005
+625,26041667,26.041667,shot_005,49,She reached out to touch the gold inlay.,audio_005
+626,26083333,26.083333,shot_005,50,She reached out to touch the gold inlay.,audio_005
+627,26125000,26.125000,shot_005,51,She reached out to touch the gold inlay.,audio_005
+628,26166667,26.166667,shot_005,52,She reached out to touch the gold inlay.,audio_005
+629,26208333,26.208333,shot_005,53,She reached out to touch the gold inlay.,audio_005
+630,26250000,26.250000,shot_005,54,She reached out to touch the gold inlay.,audio_005
+631,26291667,26.291667,shot_005,55,She reached out to touch the gold inlay.,audio_005
+632,26333333,26.333333,shot_005,56,She reached out to touch the gold inlay.,audio_005
+633,26375000,26.375000,shot_005,57,She reached out to touch the gold inlay.,audio_005
+634,26416667,26.416667,shot_005,58,She reached out to touch the gold inlay.,audio_005
+635,26458333,26.458333,shot_005,59,She reached out to touch the gold inlay.,audio_005
+636,26500000,26.500000,shot_005,60,She reached out to touch the gold inlay.,audio_005
+637,26541667,26.541667,shot_005,61,She reached out to touch the gold inlay.,audio_005
+638,26583333,26.583333,shot_005,62,She reached out to touch the gold inlay.,audio_005
+639,26625000,26.625000,shot_005,63,She reached out to touch the gold inlay.,audio_005
+640,26666667,26.666667,shot_005,64,She reached out to touch the gold inlay.,audio_005
+641,26708333,26.708333,shot_005,65,She reached out to touch the gold inlay.,audio_005
+642,26750000,26.750000,shot_005,66,She reached out to touch the gold inlay.,audio_005
+643,26791667,26.791667,shot_005,67,She reached out to touch the gold inlay.,audio_005
+644,26833333,26.833333,shot_005,68,She reached out to touch the gold inlay.,audio_005
+645,26875000,26.875000,shot_005,69,She reached out to touch the gold inlay.,audio_005
+646,26916667,26.916667,shot_005,70,She reached out to touch the gold inlay.,audio_005
+647,26958333,26.958333,shot_005,71,She reached out to touch the gold inlay.,audio_005
+648,27000000,27.000000,shot_005,72,She reached out to touch the gold inlay.,audio_005
+649,27041667,27.041667,shot_005,73,She reached out to touch the gold inlay.,audio_005
+650,27083333,27.083333,shot_005,74,She reached out to touch the gold inlay.,audio_005
+651,27125000,27.125000,shot_005,75,She reached out to touch the gold inlay.,audio_005
+652,27166667,27.166667,shot_005,76,She reached out to touch the gold inlay.,audio_005
+653,27208333,27.208333,shot_005,77,She reached out to touch the gold inlay.,audio_005
+654,27250000,27.250000,shot_005,78,She reached out to touch the gold inlay.,audio_005
+655,27291667,27.291667,shot_005,79,She reached out to touch the gold inlay.,audio_005
+656,27333333,27.333333,shot_005,80,She reached out to touch the gold inlay.,audio_005
+657,27375000,27.375000,shot_005,81,She reached out to touch the gold inlay.,audio_005
+658,27416667,27.416667,shot_005,82,She reached out to touch the gold inlay.,audio_005
+659,27458333,27.458333,shot_005,83,She reached out to touch the gold inlay.,audio_005
+660,27500000,27.500000,shot_005,84,She reached out to touch the gold inlay.,audio_005
+661,27541667,27.541667,shot_005,85,She reached out to touch the gold inlay.,audio_005
+662,27583333,27.583333,shot_005,86,She reached out to touch the gold inlay.,audio_005
+663,27625000,27.625000,shot_005,87,She reached out to touch the gold inlay.,audio_005
+664,27666667,27.666667,shot_005,88,She reached out to touch the gold inlay.,audio_005
+665,27708333,27.708333,shot_005,89,She reached out to touch the gold inlay.,audio_005
+666,27750000,27.750000,shot_005,90,She reached out to touch the gold inlay.,audio_005
+667,27791667,27.791667,shot_005,91,She reached out to touch the gold inlay.,audio_005
+668,27833333,27.833333,shot_005,92,She reached out to touch the gold inlay.,audio_005
+669,27875000,27.875000,shot_005,93,She reached out to touch the gold inlay.,audio_005
+670,27916667,27.916667,shot_005,94,She reached out to touch the gold inlay.,audio_005
+671,27958333,27.958333,shot_005,95,She reached out to touch the gold inlay.,audio_005
+672,28000000,28.000000,shot_005,96,She reached out to touch the gold inlay.,audio_005
+673,28041667,28.041667,shot_005,97,She reached out to touch the gold inlay.,audio_005
+674,28083333,28.083333,shot_005,98,She reached out to touch the gold inlay.,audio_005
+675,28125000,28.125000,shot_005,99,She reached out to touch the gold inlay.,audio_005
+676,28166667,28.166667,shot_005,100,She reached out to touch the gold inlay.,audio_005
+677,28208333,28.208333,shot_005,101,She reached out to touch the gold inlay.,audio_005
+678,28250000,28.250000,shot_005,102,She reached out to touch the gold inlay.,audio_005
+679,28291667,28.291667,shot_005,103,She reached out to touch the gold inlay.,audio_005
+680,28333333,28.333333,shot_005,104,She reached out to touch the gold inlay.,audio_005
+681,28375000,28.375000,shot_005,105,She reached out to touch the gold inlay.,audio_005
+682,28416667,28.416667,shot_005,106,She reached out to touch the gold inlay.,audio_005
+683,28458333,28.458333,shot_005,107,She reached out to touch the gold inlay.,audio_005
+684,28500000,28.500000,shot_005,108,She reached out to touch the gold inlay.,audio_005
+685,28541667,28.541667,shot_005,109,She reached out to touch the gold inlay.,audio_005
+686,28583333,28.583333,shot_005,110,She reached out to touch the gold inlay.,audio_005
+687,28625000,28.625000,shot_005,111,She reached out to touch the gold inlay.,audio_005
+688,28666667,28.666667,shot_005,112,She reached out to touch the gold inlay.,audio_005
+689,28708333,28.708333,shot_005,113,She reached out to touch the gold inlay.,audio_005
+690,28750000,28.750000,shot_005,114,She reached out to touch the gold inlay.,audio_005
+691,28791667,28.791667,shot_005,115,She reached out to touch the gold inlay.,audio_005
+692,28833333,28.833333,shot_005,116,She reached out to touch the gold inlay.,audio_005
+693,28875000,28.875000,shot_005,117,She reached out to touch the gold inlay.,audio_005
+694,28916667,28.916667,shot_005,118,She reached out to touch the gold inlay.,audio_005
+695,28958333,28.958333,shot_005,119,She reached out to touch the gold inlay.,audio_005
+696,29000000,29.000000,shot_005,120,She reached out to touch the gold inlay.,audio_005
+697,29041667,29.041667,shot_005,121,She reached out to touch the gold inlay.,audio_005
+698,29083333,29.083333,shot_005,122,She reached out to touch the gold inlay.,audio_005
+699,29125000,29.125000,shot_005,123,She reached out to touch the gold inlay.,audio_005
+700,29166667,29.166667,shot_005,124,She reached out to touch the gold inlay.,audio_005
+701,29208333,29.208333,shot_005,125,She reached out to touch the gold inlay.,audio_005
+702,29250000,29.250000,shot_005,126,She reached out to touch the gold inlay.,audio_005
+703,29291667,29.291667,shot_005,127,She reached out to touch the gold inlay.,audio_005
+704,29333333,29.333333,shot_005,128,She reached out to touch the gold inlay.,audio_005
+705,29375000,29.375000,shot_005,129,She reached out to touch the gold inlay.,audio_005
+706,29416667,29.416667,shot_005,130,She reached out to touch the gold inlay.,audio_005
+707,29458333,29.458333,shot_005,131,She reached out to touch the gold inlay.,audio_005
+708,29500000,29.500000,shot_005,132,,audio_005
+709,29541667,29.541667,shot_005,133,,audio_005
+710,29583333,29.583333,shot_005,134,,audio_005
+711,29625000,29.625000,shot_005,135,,audio_005
+712,29666667,29.666667,shot_005,136,,audio_005
+713,29708333,29.708333,shot_005,137,,audio_005
+714,29750000,29.750000,shot_005,138,,audio_005
+715,29791667,29.791667,shot_005,139,,audio_005
+716,29833333,29.833333,shot_005,140,,audio_005
+717,29875000,29.875000,shot_005,141,,audio_005
+718,29916667,29.916667,shot_005,142,,audio_005
+719,29958333,29.958333,shot_005,143,,audio_005
+720,30000000,30.000000,shot_006,0,,audio_006
+721,30041667,30.041667,shot_006,1,,audio_006
+722,30083333,30.083333,shot_006,2,,audio_006
+723,30125000,30.125000,shot_006,3,,audio_006
+724,30166667,30.166667,shot_006,4,,audio_006
+725,30208333,30.208333,shot_006,5,,audio_006
+726,30250000,30.250000,shot_006,6,,audio_006
+727,30291667,30.291667,shot_006,7,,audio_006
+728,30333333,30.333333,shot_006,8,,audio_006
+729,30375000,30.375000,shot_006,9,,audio_006
+730,30416667,30.416667,shot_006,10,,audio_006
+731,30458333,30.458333,shot_006,11,,audio_006
+732,30500000,30.500000,shot_006,12,,audio_006
+733,30541667,30.541667,shot_006,13,,audio_006
+734,30583333,30.583333,shot_006,14,,audio_006
+735,30625000,30.625000,shot_006,15,,audio_006
+736,30666667,30.666667,shot_006,16,,audio_006
+737,30708333,30.708333,shot_006,17,,audio_006
+738,30750000,30.750000,shot_006,18,,audio_006
+739,30791667,30.791667,shot_006,19,,audio_006
+740,30833333,30.833333,shot_006,20,,audio_006
+741,30875000,30.875000,shot_006,21,,audio_006
+742,30916667,30.916667,shot_006,22,,audio_006
+743,30958333,30.958333,shot_006,23,,audio_006
+744,31000000,31.000000,shot_006,24,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+745,31041667,31.041667,shot_006,25,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+746,31083333,31.083333,shot_006,26,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+747,31125000,31.125000,shot_006,27,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+748,31166667,31.166667,shot_006,28,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+749,31208333,31.208333,shot_006,29,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+750,31250000,31.250000,shot_006,30,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+751,31291667,31.291667,shot_006,31,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+752,31333333,31.333333,shot_006,32,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+753,31375000,31.375000,shot_006,33,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+754,31416667,31.416667,shot_006,34,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+755,31458333,31.458333,shot_006,35,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+756,31500000,31.500000,shot_006,36,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+757,31541667,31.541667,shot_006,37,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+758,31583333,31.583333,shot_006,38,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+759,31625000,31.625000,shot_006,39,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+760,31666667,31.666667,shot_006,40,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+761,31708333,31.708333,shot_006,41,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+762,31750000,31.750000,shot_006,42,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+763,31791667,31.791667,shot_006,43,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+764,31833333,31.833333,shot_006,44,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+765,31875000,31.875000,shot_006,45,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+766,31916667,31.916667,shot_006,46,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+767,31958333,31.958333,shot_006,47,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+768,32000000,32.000000,shot_006,48,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+769,32041667,32.041667,shot_006,49,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+770,32083333,32.083333,shot_006,50,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+771,32125000,32.125000,shot_006,51,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+772,32166667,32.166667,shot_006,52,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+773,32208333,32.208333,shot_006,53,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+774,32250000,32.250000,shot_006,54,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+775,32291667,32.291667,shot_006,55,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+776,32333333,32.333333,shot_006,56,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+777,32375000,32.375000,shot_006,57,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+778,32416667,32.416667,shot_006,58,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+779,32458333,32.458333,shot_006,59,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+780,32500000,32.500000,shot_006,60,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+781,32541667,32.541667,shot_006,61,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+782,32583333,32.583333,shot_006,62,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+783,32625000,32.625000,shot_006,63,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+784,32666667,32.666667,shot_006,64,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+785,32708333,32.708333,shot_006,65,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+786,32750000,32.750000,shot_006,66,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+787,32791667,32.791667,shot_006,67,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+788,32833333,32.833333,shot_006,68,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+789,32875000,32.875000,shot_006,69,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+790,32916667,32.916667,shot_006,70,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+791,32958333,32.958333,shot_006,71,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+792,33000000,33.000000,shot_006,72,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+793,33041667,33.041667,shot_006,73,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+794,33083333,33.083333,shot_006,74,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+795,33125000,33.125000,shot_006,75,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+796,33166667,33.166667,shot_006,76,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+797,33208333,33.208333,shot_006,77,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+798,33250000,33.250000,shot_006,78,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+799,33291667,33.291667,shot_006,79,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+800,33333333,33.333333,shot_006,80,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+801,33375000,33.375000,shot_006,81,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+802,33416667,33.416667,shot_006,82,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+803,33458333,33.458333,shot_006,83,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+804,33500000,33.500000,shot_006,84,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+805,33541667,33.541667,shot_006,85,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+806,33583333,33.583333,shot_006,86,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+807,33625000,33.625000,shot_006,87,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+808,33666667,33.666667,shot_006,88,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+809,33708333,33.708333,shot_006,89,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+810,33750000,33.750000,shot_006,90,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+811,33791667,33.791667,shot_006,91,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+812,33833333,33.833333,shot_006,92,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+813,33875000,33.875000,shot_006,93,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+814,33916667,33.916667,shot_006,94,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+815,33958333,33.958333,shot_006,95,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+816,34000000,34.000000,shot_006,96,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+817,34041667,34.041667,shot_006,97,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+818,34083333,34.083333,shot_006,98,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+819,34125000,34.125000,shot_006,99,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+820,34166667,34.166667,shot_006,100,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+821,34208333,34.208333,shot_006,101,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+822,34250000,34.250000,shot_006,102,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+823,34291667,34.291667,shot_006,103,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+824,34333333,34.333333,shot_006,104,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+825,34375000,34.375000,shot_006,105,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+826,34416667,34.416667,shot_006,106,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+827,34458333,34.458333,shot_006,107,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+828,34500000,34.500000,shot_006,108,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+829,34541667,34.541667,shot_006,109,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+830,34583333,34.583333,shot_006,110,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+831,34625000,34.625000,shot_006,111,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+832,34666667,34.666667,shot_006,112,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+833,34708333,34.708333,shot_006,113,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+834,34750000,34.750000,shot_006,114,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+835,34791667,34.791667,shot_006,115,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+836,34833333,34.833333,shot_006,116,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+837,34875000,34.875000,shot_006,117,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+838,34916667,34.916667,shot_006,118,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+839,34958333,34.958333,shot_006,119,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+840,35000000,35.000000,shot_006,120,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+841,35041667,35.041667,shot_006,121,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+842,35083333,35.083333,shot_006,122,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+843,35125000,35.125000,shot_006,123,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+844,35166667,35.166667,shot_006,124,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+845,35208333,35.208333,shot_006,125,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+846,35250000,35.250000,shot_006,126,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+847,35291667,35.291667,shot_006,127,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+848,35333333,35.333333,shot_006,128,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+849,35375000,35.375000,shot_006,129,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+850,35416667,35.416667,shot_006,130,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+851,35458333,35.458333,shot_006,131,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.,audio_006
+852,35500000,35.500000,shot_006,132,,audio_006
+853,35541667,35.541667,shot_006,133,,audio_006
+854,35583333,35.583333,shot_006,134,,audio_006
+855,35625000,35.625000,shot_006,135,,audio_006
+856,35666667,35.666667,shot_006,136,,audio_006
+857,35708333,35.708333,shot_006,137,,audio_006
+858,35750000,35.750000,shot_006,138,,audio_006
+859,35791667,35.791667,shot_006,139,,audio_006
+860,35833333,35.833333,shot_006,140,,audio_006
+861,35875000,35.875000,shot_006,141,,audio_006
+862,35916667,35.916667,shot_006,142,,audio_006
+863,35958333,35.958333,shot_006,143,,audio_006
+864,36000000,36.000000,shot_007,0,,audio_007
+865,36041667,36.041667,shot_007,1,,audio_007
+866,36083333,36.083333,shot_007,2,,audio_007
+867,36125000,36.125000,shot_007,3,,audio_007
+868,36166667,36.166667,shot_007,4,,audio_007
+869,36208333,36.208333,shot_007,5,,audio_007
+870,36250000,36.250000,shot_007,6,,audio_007
+871,36291667,36.291667,shot_007,7,,audio_007
+872,36333333,36.333333,shot_007,8,,audio_007
+873,36375000,36.375000,shot_007,9,,audio_007
+874,36416667,36.416667,shot_007,10,,audio_007
+875,36458333,36.458333,shot_007,11,,audio_007
+876,36500000,36.500000,shot_007,12,,audio_007
+877,36541667,36.541667,shot_007,13,,audio_007
+878,36583333,36.583333,shot_007,14,,audio_007
+879,36625000,36.625000,shot_007,15,,audio_007
+880,36666667,36.666667,shot_007,16,,audio_007
+881,36708333,36.708333,shot_007,17,,audio_007
+882,36750000,36.750000,shot_007,18,,audio_007
+883,36791667,36.791667,shot_007,19,,audio_007
+884,36833333,36.833333,shot_007,20,,audio_007
+885,36875000,36.875000,shot_007,21,,audio_007
+886,36916667,36.916667,shot_007,22,,audio_007
+887,36958333,36.958333,shot_007,23,,audio_007
+888,37000000,37.000000,shot_007,24,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+889,37041667,37.041667,shot_007,25,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+890,37083333,37.083333,shot_007,26,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+891,37125000,37.125000,shot_007,27,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+892,37166667,37.166667,shot_007,28,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+893,37208333,37.208333,shot_007,29,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+894,37250000,37.250000,shot_007,30,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+895,37291667,37.291667,shot_007,31,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+896,37333333,37.333333,shot_007,32,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+897,37375000,37.375000,shot_007,33,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+898,37416667,37.416667,shot_007,34,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+899,37458333,37.458333,shot_007,35,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+900,37500000,37.500000,shot_007,36,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+901,37541667,37.541667,shot_007,37,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+902,37583333,37.583333,shot_007,38,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+903,37625000,37.625000,shot_007,39,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+904,37666667,37.666667,shot_007,40,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+905,37708333,37.708333,shot_007,41,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+906,37750000,37.750000,shot_007,42,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+907,37791667,37.791667,shot_007,43,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+908,37833333,37.833333,shot_007,44,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+909,37875000,37.875000,shot_007,45,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+910,37916667,37.916667,shot_007,46,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+911,37958333,37.958333,shot_007,47,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+912,38000000,38.000000,shot_007,48,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+913,38041667,38.041667,shot_007,49,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+914,38083333,38.083333,shot_007,50,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+915,38125000,38.125000,shot_007,51,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+916,38166667,38.166667,shot_007,52,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+917,38208333,38.208333,shot_007,53,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+918,38250000,38.250000,shot_007,54,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+919,38291667,38.291667,shot_007,55,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+920,38333333,38.333333,shot_007,56,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+921,38375000,38.375000,shot_007,57,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+922,38416667,38.416667,shot_007,58,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+923,38458333,38.458333,shot_007,59,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+924,38500000,38.500000,shot_007,60,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+925,38541667,38.541667,shot_007,61,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+926,38583333,38.583333,shot_007,62,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+927,38625000,38.625000,shot_007,63,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+928,38666667,38.666667,shot_007,64,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+929,38708333,38.708333,shot_007,65,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+930,38750000,38.750000,shot_007,66,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+931,38791667,38.791667,shot_007,67,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+932,38833333,38.833333,shot_007,68,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+933,38875000,38.875000,shot_007,69,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+934,38916667,38.916667,shot_007,70,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+935,38958333,38.958333,shot_007,71,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+936,39000000,39.000000,shot_007,72,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+937,39041667,39.041667,shot_007,73,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+938,39083333,39.083333,shot_007,74,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+939,39125000,39.125000,shot_007,75,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+940,39166667,39.166667,shot_007,76,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+941,39208333,39.208333,shot_007,77,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+942,39250000,39.250000,shot_007,78,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+943,39291667,39.291667,shot_007,79,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+944,39333333,39.333333,shot_007,80,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+945,39375000,39.375000,shot_007,81,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+946,39416667,39.416667,shot_007,82,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+947,39458333,39.458333,shot_007,83,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+948,39500000,39.500000,shot_007,84,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+949,39541667,39.541667,shot_007,85,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+950,39583333,39.583333,shot_007,86,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+951,39625000,39.625000,shot_007,87,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+952,39666667,39.666667,shot_007,88,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+953,39708333,39.708333,shot_007,89,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+954,39750000,39.750000,shot_007,90,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+955,39791667,39.791667,shot_007,91,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+956,39833333,39.833333,shot_007,92,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+957,39875000,39.875000,shot_007,93,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+958,39916667,39.916667,shot_007,94,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+959,39958333,39.958333,shot_007,95,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+960,40000000,40.000000,shot_007,96,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+961,40041667,40.041667,shot_007,97,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+962,40083333,40.083333,shot_007,98,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+963,40125000,40.125000,shot_007,99,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+964,40166667,40.166667,shot_007,100,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+965,40208333,40.208333,shot_007,101,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+966,40250000,40.250000,shot_007,102,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+967,40291667,40.291667,shot_007,103,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+968,40333333,40.333333,shot_007,104,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+969,40375000,40.375000,shot_007,105,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+970,40416667,40.416667,shot_007,106,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+971,40458333,40.458333,shot_007,107,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+972,40500000,40.500000,shot_007,108,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+973,40541667,40.541667,shot_007,109,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+974,40583333,40.583333,shot_007,110,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+975,40625000,40.625000,shot_007,111,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+976,40666667,40.666667,shot_007,112,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+977,40708333,40.708333,shot_007,113,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+978,40750000,40.750000,shot_007,114,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+979,40791667,40.791667,shot_007,115,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+980,40833333,40.833333,shot_007,116,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+981,40875000,40.875000,shot_007,117,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+982,40916667,40.916667,shot_007,118,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+983,40958333,40.958333,shot_007,119,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+984,41000000,41.000000,shot_007,120,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+985,41041667,41.041667,shot_007,121,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+986,41083333,41.083333,shot_007,122,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+987,41125000,41.125000,shot_007,123,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+988,41166667,41.166667,shot_007,124,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+989,41208333,41.208333,shot_007,125,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+990,41250000,41.250000,shot_007,126,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+991,41291667,41.291667,shot_007,127,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+992,41333333,41.333333,shot_007,128,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+993,41375000,41.375000,shot_007,129,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+994,41416667,41.416667,shot_007,130,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+995,41458333,41.458333,shot_007,131,Kaelen's hand touched the glowing cyan conduit of Aulis-9.,audio_007
+996,41500000,41.500000,shot_007,132,,audio_007
+997,41541667,41.541667,shot_007,133,,audio_007
+998,41583333,41.583333,shot_007,134,,audio_007
+999,41625000,41.625000,shot_007,135,,audio_007
+1000,41666667,41.666667,shot_007,136,,audio_007
+1001,41708333,41.708333,shot_007,137,,audio_007
+1002,41750000,41.750000,shot_007,138,,audio_007
+1003,41791667,41.791667,shot_007,139,,audio_007
+1004,41833333,41.833333,shot_007,140,,audio_007
+1005,41875000,41.875000,shot_007,141,,audio_007
+1006,41916667,41.916667,shot_007,142,,audio_007
+1007,41958333,41.958333,shot_007,143,,audio_007
+1008,42000000,42.000000,shot_008,0,,audio_008
+1009,42041667,42.041667,shot_008,1,,audio_008
+1010,42083333,42.083333,shot_008,2,,audio_008
+1011,42125000,42.125000,shot_008,3,,audio_008
+1012,42166667,42.166667,shot_008,4,,audio_008
+1013,42208333,42.208333,shot_008,5,,audio_008
+1014,42250000,42.250000,shot_008,6,,audio_008
+1015,42291667,42.291667,shot_008,7,,audio_008
+1016,42333333,42.333333,shot_008,8,,audio_008
+1017,42375000,42.375000,shot_008,9,,audio_008
+1018,42416667,42.416667,shot_008,10,,audio_008
+1019,42458333,42.458333,shot_008,11,,audio_008
+1020,42500000,42.500000,shot_008,12,,audio_008
+1021,42541667,42.541667,shot_008,13,,audio_008
+1022,42583333,42.583333,shot_008,14,,audio_008
+1023,42625000,42.625000,shot_008,15,,audio_008
+1024,42666667,42.666667,shot_008,16,,audio_008
+1025,42708333,42.708333,shot_008,17,,audio_008
+1026,42750000,42.750000,shot_008,18,,audio_008
+1027,42791667,42.791667,shot_008,19,,audio_008
+1028,42833333,42.833333,shot_008,20,,audio_008
+1029,42875000,42.875000,shot_008,21,,audio_008
+1030,42916667,42.916667,shot_008,22,,audio_008
+1031,42958333,42.958333,shot_008,23,,audio_008
+1032,43000000,43.000000,shot_008,24,An orbital core waiting for an identical sacrifice.,audio_008
+1033,43041667,43.041667,shot_008,25,An orbital core waiting for an identical sacrifice.,audio_008
+1034,43083333,43.083333,shot_008,26,An orbital core waiting for an identical sacrifice.,audio_008
+1035,43125000,43.125000,shot_008,27,An orbital core waiting for an identical sacrifice.,audio_008
+1036,43166667,43.166667,shot_008,28,An orbital core waiting for an identical sacrifice.,audio_008
+1037,43208333,43.208333,shot_008,29,An orbital core waiting for an identical sacrifice.,audio_008
+1038,43250000,43.250000,shot_008,30,An orbital core waiting for an identical sacrifice.,audio_008
+1039,43291667,43.291667,shot_008,31,An orbital core waiting for an identical sacrifice.,audio_008
+1040,43333333,43.333333,shot_008,32,An orbital core waiting for an identical sacrifice.,audio_008
+1041,43375000,43.375000,shot_008,33,An orbital core waiting for an identical sacrifice.,audio_008
+1042,43416667,43.416667,shot_008,34,An orbital core waiting for an identical sacrifice.,audio_008
+1043,43458333,43.458333,shot_008,35,An orbital core waiting for an identical sacrifice.,audio_008
+1044,43500000,43.500000,shot_008,36,An orbital core waiting for an identical sacrifice.,audio_008
+1045,43541667,43.541667,shot_008,37,An orbital core waiting for an identical sacrifice.,audio_008
+1046,43583333,43.583333,shot_008,38,An orbital core waiting for an identical sacrifice.,audio_008
+1047,43625000,43.625000,shot_008,39,An orbital core waiting for an identical sacrifice.,audio_008
+1048,43666667,43.666667,shot_008,40,An orbital core waiting for an identical sacrifice.,audio_008
+1049,43708333,43.708333,shot_008,41,An orbital core waiting for an identical sacrifice.,audio_008
+1050,43750000,43.750000,shot_008,42,An orbital core waiting for an identical sacrifice.,audio_008
+1051,43791667,43.791667,shot_008,43,An orbital core waiting for an identical sacrifice.,audio_008
+1052,43833333,43.833333,shot_008,44,An orbital core waiting for an identical sacrifice.,audio_008
+1053,43875000,43.875000,shot_008,45,An orbital core waiting for an identical sacrifice.,audio_008
+1054,43916667,43.916667,shot_008,46,An orbital core waiting for an identical sacrifice.,audio_008
+1055,43958333,43.958333,shot_008,47,An orbital core waiting for an identical sacrifice.,audio_008
+1056,44000000,44.000000,shot_008,48,An orbital core waiting for an identical sacrifice.,audio_008
+1057,44041667,44.041667,shot_008,49,An orbital core waiting for an identical sacrifice.,audio_008
+1058,44083333,44.083333,shot_008,50,An orbital core waiting for an identical sacrifice.,audio_008
+1059,44125000,44.125000,shot_008,51,An orbital core waiting for an identical sacrifice.,audio_008
+1060,44166667,44.166667,shot_008,52,An orbital core waiting for an identical sacrifice.,audio_008
+1061,44208333,44.208333,shot_008,53,An orbital core waiting for an identical sacrifice.,audio_008
+1062,44250000,44.250000,shot_008,54,An orbital core waiting for an identical sacrifice.,audio_008
+1063,44291667,44.291667,shot_008,55,An orbital core waiting for an identical sacrifice.,audio_008
+1064,44333333,44.333333,shot_008,56,An orbital core waiting for an identical sacrifice.,audio_008
+1065,44375000,44.375000,shot_008,57,An orbital core waiting for an identical sacrifice.,audio_008
+1066,44416667,44.416667,shot_008,58,An orbital core waiting for an identical sacrifice.,audio_008
+1067,44458333,44.458333,shot_008,59,An orbital core waiting for an identical sacrifice.,audio_008
+1068,44500000,44.500000,shot_008,60,An orbital core waiting for an identical sacrifice.,audio_008
+1069,44541667,44.541667,shot_008,61,An orbital core waiting for an identical sacrifice.,audio_008
+1070,44583333,44.583333,shot_008,62,An orbital core waiting for an identical sacrifice.,audio_008
+1071,44625000,44.625000,shot_008,63,An orbital core waiting for an identical sacrifice.,audio_008
+1072,44666667,44.666667,shot_008,64,An orbital core waiting for an identical sacrifice.,audio_008
+1073,44708333,44.708333,shot_008,65,An orbital core waiting for an identical sacrifice.,audio_008
+1074,44750000,44.750000,shot_008,66,An orbital core waiting for an identical sacrifice.,audio_008
+1075,44791667,44.791667,shot_008,67,An orbital core waiting for an identical sacrifice.,audio_008
+1076,44833333,44.833333,shot_008,68,An orbital core waiting for an identical sacrifice.,audio_008
+1077,44875000,44.875000,shot_008,69,An orbital core waiting for an identical sacrifice.,audio_008
+1078,44916667,44.916667,shot_008,70,An orbital core waiting for an identical sacrifice.,audio_008
+1079,44958333,44.958333,shot_008,71,An orbital core waiting for an identical sacrifice.,audio_008
+1080,45000000,45.000000,shot_008,72,An orbital core waiting for an identical sacrifice.,audio_008
+1081,45041667,45.041667,shot_008,73,An orbital core waiting for an identical sacrifice.,audio_008
+1082,45083333,45.083333,shot_008,74,An orbital core waiting for an identical sacrifice.,audio_008
+1083,45125000,45.125000,shot_008,75,An orbital core waiting for an identical sacrifice.,audio_008
+1084,45166667,45.166667,shot_008,76,An orbital core waiting for an identical sacrifice.,audio_008
+1085,45208333,45.208333,shot_008,77,An orbital core waiting for an identical sacrifice.,audio_008
+1086,45250000,45.250000,shot_008,78,An orbital core waiting for an identical sacrifice.,audio_008
+1087,45291667,45.291667,shot_008,79,An orbital core waiting for an identical sacrifice.,audio_008
+1088,45333333,45.333333,shot_008,80,An orbital core waiting for an identical sacrifice.,audio_008
+1089,45375000,45.375000,shot_008,81,An orbital core waiting for an identical sacrifice.,audio_008
+1090,45416667,45.416667,shot_008,82,An orbital core waiting for an identical sacrifice.,audio_008
+1091,45458333,45.458333,shot_008,83,An orbital core waiting for an identical sacrifice.,audio_008
+1092,45500000,45.500000,shot_008,84,An orbital core waiting for an identical sacrifice.,audio_008
+1093,45541667,45.541667,shot_008,85,An orbital core waiting for an identical sacrifice.,audio_008
+1094,45583333,45.583333,shot_008,86,An orbital core waiting for an identical sacrifice.,audio_008
+1095,45625000,45.625000,shot_008,87,An orbital core waiting for an identical sacrifice.,audio_008
+1096,45666667,45.666667,shot_008,88,An orbital core waiting for an identical sacrifice.,audio_008
+1097,45708333,45.708333,shot_008,89,An orbital core waiting for an identical sacrifice.,audio_008
+1098,45750000,45.750000,shot_008,90,An orbital core waiting for an identical sacrifice.,audio_008
+1099,45791667,45.791667,shot_008,91,An orbital core waiting for an identical sacrifice.,audio_008
+1100,45833333,45.833333,shot_008,92,An orbital core waiting for an identical sacrifice.,audio_008
+1101,45875000,45.875000,shot_008,93,An orbital core waiting for an identical sacrifice.,audio_008
+1102,45916667,45.916667,shot_008,94,An orbital core waiting for an identical sacrifice.,audio_008
+1103,45958333,45.958333,shot_008,95,An orbital core waiting for an identical sacrifice.,audio_008
+1104,46000000,46.000000,shot_008,96,An orbital core waiting for an identical sacrifice.,audio_008
+1105,46041667,46.041667,shot_008,97,An orbital core waiting for an identical sacrifice.,audio_008
+1106,46083333,46.083333,shot_008,98,An orbital core waiting for an identical sacrifice.,audio_008
+1107,46125000,46.125000,shot_008,99,An orbital core waiting for an identical sacrifice.,audio_008
+1108,46166667,46.166667,shot_008,100,An orbital core waiting for an identical sacrifice.,audio_008
+1109,46208333,46.208333,shot_008,101,An orbital core waiting for an identical sacrifice.,audio_008
+1110,46250000,46.250000,shot_008,102,An orbital core waiting for an identical sacrifice.,audio_008
+1111,46291667,46.291667,shot_008,103,An orbital core waiting for an identical sacrifice.,audio_008
+1112,46333333,46.333333,shot_008,104,An orbital core waiting for an identical sacrifice.,audio_008
+1113,46375000,46.375000,shot_008,105,An orbital core waiting for an identical sacrifice.,audio_008
+1114,46416667,46.416667,shot_008,106,An orbital core waiting for an identical sacrifice.,audio_008
+1115,46458333,46.458333,shot_008,107,An orbital core waiting for an identical sacrifice.,audio_008
+1116,46500000,46.500000,shot_008,108,An orbital core waiting for an identical sacrifice.,audio_008
+1117,46541667,46.541667,shot_008,109,An orbital core waiting for an identical sacrifice.,audio_008
+1118,46583333,46.583333,shot_008,110,An orbital core waiting for an identical sacrifice.,audio_008
+1119,46625000,46.625000,shot_008,111,An orbital core waiting for an identical sacrifice.,audio_008
+1120,46666667,46.666667,shot_008,112,An orbital core waiting for an identical sacrifice.,audio_008
+1121,46708333,46.708333,shot_008,113,An orbital core waiting for an identical sacrifice.,audio_008
+1122,46750000,46.750000,shot_008,114,An orbital core waiting for an identical sacrifice.,audio_008
+1123,46791667,46.791667,shot_008,115,An orbital core waiting for an identical sacrifice.,audio_008
+1124,46833333,46.833333,shot_008,116,An orbital core waiting for an identical sacrifice.,audio_008
+1125,46875000,46.875000,shot_008,117,An orbital core waiting for an identical sacrifice.,audio_008
+1126,46916667,46.916667,shot_008,118,An orbital core waiting for an identical sacrifice.,audio_008
+1127,46958333,46.958333,shot_008,119,An orbital core waiting for an identical sacrifice.,audio_008
+1128,47000000,47.000000,shot_008,120,An orbital core waiting for an identical sacrifice.,audio_008
+1129,47041667,47.041667,shot_008,121,An orbital core waiting for an identical sacrifice.,audio_008
+1130,47083333,47.083333,shot_008,122,An orbital core waiting for an identical sacrifice.,audio_008
+1131,47125000,47.125000,shot_008,123,An orbital core waiting for an identical sacrifice.,audio_008
+1132,47166667,47.166667,shot_008,124,An orbital core waiting for an identical sacrifice.,audio_008
+1133,47208333,47.208333,shot_008,125,An orbital core waiting for an identical sacrifice.,audio_008
+1134,47250000,47.250000,shot_008,126,An orbital core waiting for an identical sacrifice.,audio_008
+1135,47291667,47.291667,shot_008,127,An orbital core waiting for an identical sacrifice.,audio_008
+1136,47333333,47.333333,shot_008,128,An orbital core waiting for an identical sacrifice.,audio_008
+1137,47375000,47.375000,shot_008,129,An orbital core waiting for an identical sacrifice.,audio_008
+1138,47416667,47.416667,shot_008,130,An orbital core waiting for an identical sacrifice.,audio_008
+1139,47458333,47.458333,shot_008,131,An orbital core waiting for an identical sacrifice.,audio_008
+1140,47500000,47.500000,shot_008,132,,audio_008
+1141,47541667,47.541667,shot_008,133,,audio_008
+1142,47583333,47.583333,shot_008,134,,audio_008
+1143,47625000,47.625000,shot_008,135,,audio_008
+1144,47666667,47.666667,shot_008,136,,audio_008
+1145,47708333,47.708333,shot_008,137,,audio_008
+1146,47750000,47.750000,shot_008,138,,audio_008
+1147,47791667,47.791667,shot_008,139,,audio_008
+1148,47833333,47.833333,shot_008,140,,audio_008
+1149,47875000,47.875000,shot_008,141,,audio_008
+1150,47916667,47.916667,shot_008,142,,audio_008
+1151,47958333,47.958333,shot_008,143,,audio_008
+1152,48000000,48.000000,shot_009,0,,audio_008
+1153,48041667,48.041667,shot_009,1,,audio_008
+1154,48083333,48.083333,shot_009,2,,audio_008
+1155,48125000,48.125000,shot_009,3,,audio_008
+1156,48166667,48.166667,shot_009,4,,audio_008
+1157,48208333,48.208333,shot_009,5,,audio_008
+1158,48250000,48.250000,shot_009,6,,audio_008
+1159,48291667,48.291667,shot_009,7,,audio_008
+1160,48333333,48.333333,shot_009,8,,audio_008
+1161,48375000,48.375000,shot_009,9,,audio_008
+1162,48416667,48.416667,shot_009,10,,audio_008
+1163,48458333,48.458333,shot_009,11,,audio_008
+1164,48500000,48.500000,shot_009,12,,audio_008
+1165,48541667,48.541667,shot_009,13,,audio_008
+1166,48583333,48.583333,shot_009,14,,audio_008
+1167,48625000,48.625000,shot_009,15,,audio_008
+1168,48666667,48.666667,shot_009,16,,audio_008
+1169,48708333,48.708333,shot_009,17,,audio_008
+1170,48750000,48.750000,shot_009,18,,audio_008
+1171,48791667,48.791667,shot_009,19,,audio_008
+1172,48833333,48.833333,shot_009,20,,audio_008
+1173,48875000,48.875000,shot_009,21,,audio_008
+1174,48916667,48.916667,shot_009,22,,audio_008
+1175,48958333,48.958333,shot_009,23,,audio_008
+1176,49000000,49.000000,shot_009,24,The thread connects what time separates.,audio_008
+1177,49041667,49.041667,shot_009,25,The thread connects what time separates.,audio_008
+1178,49083333,49.083333,shot_009,26,The thread connects what time separates.,audio_008
+1179,49125000,49.125000,shot_009,27,The thread connects what time separates.,audio_008
+1180,49166667,49.166667,shot_009,28,The thread connects what time separates.,audio_008
+1181,49208333,49.208333,shot_009,29,The thread connects what time separates.,audio_008
+1182,49250000,49.250000,shot_009,30,The thread connects what time separates.,audio_008
+1183,49291667,49.291667,shot_009,31,The thread connects what time separates.,audio_008
+1184,49333333,49.333333,shot_009,32,The thread connects what time separates.,audio_008
+1185,49375000,49.375000,shot_009,33,The thread connects what time separates.,audio_008
+1186,49416667,49.416667,shot_009,34,The thread connects what time separates.,audio_008
+1187,49458333,49.458333,shot_009,35,The thread connects what time separates.,audio_008
+1188,49500000,49.500000,shot_009,36,The thread connects what time separates.,audio_008
+1189,49541667,49.541667,shot_009,37,The thread connects what time separates.,audio_008
+1190,49583333,49.583333,shot_009,38,The thread connects what time separates.,audio_008
+1191,49625000,49.625000,shot_009,39,The thread connects what time separates.,audio_008
+1192,49666667,49.666667,shot_009,40,The thread connects what time separates.,audio_008
+1193,49708333,49.708333,shot_009,41,The thread connects what time separates.,audio_008
+1194,49750000,49.750000,shot_009,42,The thread connects what time separates.,audio_008
+1195,49791667,49.791667,shot_009,43,The thread connects what time separates.,audio_008
+1196,49833333,49.833333,shot_009,44,The thread connects what time separates.,audio_008
+1197,49875000,49.875000,shot_009,45,The thread connects what time separates.,audio_008
+1198,49916667,49.916667,shot_009,46,The thread connects what time separates.,audio_008
+1199,49958333,49.958333,shot_009,47,The thread connects what time separates.,audio_008
+1200,50000000,50.000000,shot_009,48,The thread connects what time separates.,audio_008
+1201,50041667,50.041667,shot_009,49,The thread connects what time separates.,audio_008
+1202,50083333,50.083333,shot_009,50,The thread connects what time separates.,audio_008
+1203,50125000,50.125000,shot_009,51,The thread connects what time separates.,audio_008
+1204,50166667,50.166667,shot_009,52,The thread connects what time separates.,audio_008
+1205,50208333,50.208333,shot_009,53,The thread connects what time separates.,audio_008
+1206,50250000,50.250000,shot_009,54,The thread connects what time separates.,audio_008
+1207,50291667,50.291667,shot_009,55,The thread connects what time separates.,audio_008
+1208,50333333,50.333333,shot_009,56,The thread connects what time separates.,audio_008
+1209,50375000,50.375000,shot_009,57,The thread connects what time separates.,audio_008
+1210,50416667,50.416667,shot_009,58,The thread connects what time separates.,audio_008
+1211,50458333,50.458333,shot_009,59,The thread connects what time separates.,audio_008
+1212,50500000,50.500000,shot_009,60,The thread connects what time separates.,audio_008
+1213,50541667,50.541667,shot_009,61,The thread connects what time separates.,audio_008
+1214,50583333,50.583333,shot_009,62,The thread connects what time separates.,audio_008
+1215,50625000,50.625000,shot_009,63,The thread connects what time separates.,audio_008
+1216,50666667,50.666667,shot_009,64,The thread connects what time separates.,audio_008
+1217,50708333,50.708333,shot_009,65,The thread connects what time separates.,audio_008
+1218,50750000,50.750000,shot_009,66,The thread connects what time separates.,audio_008
+1219,50791667,50.791667,shot_009,67,The thread connects what time separates.,audio_008
+1220,50833333,50.833333,shot_009,68,The thread connects what time separates.,audio_008
+1221,50875000,50.875000,shot_009,69,The thread connects what time separates.,audio_008
+1222,50916667,50.916667,shot_009,70,The thread connects what time separates.,audio_008
+1223,50958333,50.958333,shot_009,71,The thread connects what time separates.,audio_008
+1224,51000000,51.000000,shot_009,72,The thread connects what time separates.,audio_008
+1225,51041667,51.041667,shot_009,73,The thread connects what time separates.,audio_008
+1226,51083333,51.083333,shot_009,74,The thread connects what time separates.,audio_008
+1227,51125000,51.125000,shot_009,75,The thread connects what time separates.,audio_008
+1228,51166667,51.166667,shot_009,76,The thread connects what time separates.,audio_008
+1229,51208333,51.208333,shot_009,77,The thread connects what time separates.,audio_008
+1230,51250000,51.250000,shot_009,78,The thread connects what time separates.,audio_008
+1231,51291667,51.291667,shot_009,79,The thread connects what time separates.,audio_008
+1232,51333333,51.333333,shot_009,80,The thread connects what time separates.,audio_008
+1233,51375000,51.375000,shot_009,81,The thread connects what time separates.,audio_008
+1234,51416667,51.416667,shot_009,82,The thread connects what time separates.,audio_008
+1235,51458333,51.458333,shot_009,83,The thread connects what time separates.,audio_008
+1236,51500000,51.500000,shot_009,84,The thread connects what time separates.,audio_008
+1237,51541667,51.541667,shot_009,85,The thread connects what time separates.,audio_008
+1238,51583333,51.583333,shot_009,86,The thread connects what time separates.,audio_008
+1239,51625000,51.625000,shot_009,87,The thread connects what time separates.,audio_008
+1240,51666667,51.666667,shot_009,88,The thread connects what time separates.,audio_008
+1241,51708333,51.708333,shot_009,89,The thread connects what time separates.,audio_008
+1242,51750000,51.750000,shot_009,90,The thread connects what time separates.,audio_008
+1243,51791667,51.791667,shot_009,91,The thread connects what time separates.,audio_008
+1244,51833333,51.833333,shot_009,92,The thread connects what time separates.,audio_008
+1245,51875000,51.875000,shot_009,93,The thread connects what time separates.,audio_008
+1246,51916667,51.916667,shot_009,94,The thread connects what time separates.,audio_008
+1247,51958333,51.958333,shot_009,95,The thread connects what time separates.,audio_008
+1248,52000000,52.000000,shot_009,96,The thread connects what time separates.,audio_008
+1249,52041667,52.041667,shot_009,97,The thread connects what time separates.,audio_008
+1250,52083333,52.083333,shot_009,98,The thread connects what time separates.,audio_008
+1251,52125000,52.125000,shot_009,99,The thread connects what time separates.,audio_008
+1252,52166667,52.166667,shot_009,100,The thread connects what time separates.,audio_008
+1253,52208333,52.208333,shot_009,101,The thread connects what time separates.,audio_008
+1254,52250000,52.250000,shot_009,102,The thread connects what time separates.,audio_008
+1255,52291667,52.291667,shot_009,103,The thread connects what time separates.,audio_008
+1256,52333333,52.333333,shot_009,104,The thread connects what time separates.,audio_008
+1257,52375000,52.375000,shot_009,105,The thread connects what time separates.,audio_008
+1258,52416667,52.416667,shot_009,106,The thread connects what time separates.,audio_008
+1259,52458333,52.458333,shot_009,107,The thread connects what time separates.,audio_008
+1260,52500000,52.500000,shot_009,108,The thread connects what time separates.,audio_008
+1261,52541667,52.541667,shot_009,109,The thread connects what time separates.,audio_008
+1262,52583333,52.583333,shot_009,110,The thread connects what time separates.,audio_008
+1263,52625000,52.625000,shot_009,111,The thread connects what time separates.,audio_008
+1264,52666667,52.666667,shot_009,112,The thread connects what time separates.,audio_008
+1265,52708333,52.708333,shot_009,113,The thread connects what time separates.,audio_008
+1266,52750000,52.750000,shot_009,114,The thread connects what time separates.,audio_008
+1267,52791667,52.791667,shot_009,115,The thread connects what time separates.,audio_008
+1268,52833333,52.833333,shot_009,116,The thread connects what time separates.,audio_008
+1269,52875000,52.875000,shot_009,117,The thread connects what time separates.,audio_008
+1270,52916667,52.916667,shot_009,118,The thread connects what time separates.,audio_008
+1271,52958333,52.958333,shot_009,119,The thread connects what time separates.,audio_008
+1272,53000000,53.000000,shot_009,120,The thread connects what time separates.,audio_008
+1273,53041667,53.041667,shot_009,121,The thread connects what time separates.,audio_008
+1274,53083333,53.083333,shot_009,122,The thread connects what time separates.,audio_008
+1275,53125000,53.125000,shot_009,123,The thread connects what time separates.,audio_008
+1276,53166667,53.166667,shot_009,124,The thread connects what time separates.,audio_008
+1277,53208333,53.208333,shot_009,125,The thread connects what time separates.,audio_008
+1278,53250000,53.250000,shot_009,126,The thread connects what time separates.,audio_008
+1279,53291667,53.291667,shot_009,127,The thread connects what time separates.,audio_008
+1280,53333333,53.333333,shot_009,128,The thread connects what time separates.,audio_008
+1281,53375000,53.375000,shot_009,129,The thread connects what time separates.,audio_008
+1282,53416667,53.416667,shot_009,130,The thread connects what time separates.,audio_008
+1283,53458333,53.458333,shot_009,131,The thread connects what time separates.,audio_008
+1284,53500000,53.500000,shot_009,132,,audio_008
+1285,53541667,53.541667,shot_009,133,,audio_008
+1286,53583333,53.583333,shot_009,134,,audio_008
+1287,53625000,53.625000,shot_009,135,,audio_008
+1288,53666667,53.666667,shot_009,136,,audio_008
+1289,53708333,53.708333,shot_009,137,,audio_008
+1290,53750000,53.750000,shot_009,138,,audio_008
+1291,53791667,53.791667,shot_009,139,,audio_008
+1292,53833333,53.833333,shot_009,140,,audio_008
+1293,53875000,53.875000,shot_009,141,,audio_008
+1294,53916667,53.916667,shot_009,142,,audio_008
+1295,53958333,53.958333,shot_009,143,,audio_008
+1296,54000000,54.000000,shot_010,0,,audio_009
+1297,54041667,54.041667,shot_010,1,,audio_009
+1298,54083333,54.083333,shot_010,2,,audio_009
+1299,54125000,54.125000,shot_010,3,,audio_009
+1300,54166667,54.166667,shot_010,4,,audio_009
+1301,54208333,54.208333,shot_010,5,,audio_009
+1302,54250000,54.250000,shot_010,6,,audio_009
+1303,54291667,54.291667,shot_010,7,,audio_009
+1304,54333333,54.333333,shot_010,8,,audio_009
+1305,54375000,54.375000,shot_010,9,,audio_009
+1306,54416667,54.416667,shot_010,10,,audio_009
+1307,54458333,54.458333,shot_010,11,,audio_009
+1308,54500000,54.500000,shot_010,12,,audio_009
+1309,54541667,54.541667,shot_010,13,,audio_009
+1310,54583333,54.583333,shot_010,14,,audio_009
+1311,54625000,54.625000,shot_010,15,,audio_009
+1312,54666667,54.666667,shot_010,16,,audio_009
+1313,54708333,54.708333,shot_010,17,,audio_009
+1314,54750000,54.750000,shot_010,18,,audio_009
+1315,54791667,54.791667,shot_010,19,,audio_009
+1316,54833333,54.833333,shot_010,20,,audio_009
+1317,54875000,54.875000,shot_010,21,,audio_009
+1318,54916667,54.916667,shot_010,22,,audio_009
+1319,54958333,54.958333,shot_010,23,,audio_009
+1320,55000000,55.000000,shot_010,24,The wind begins to rise.,audio_009
+1321,55041667,55.041667,shot_010,25,The wind begins to rise.,audio_009
+1322,55083333,55.083333,shot_010,26,The wind begins to rise.,audio_009
+1323,55125000,55.125000,shot_010,27,The wind begins to rise.,audio_009
+1324,55166667,55.166667,shot_010,28,The wind begins to rise.,audio_009
+1325,55208333,55.208333,shot_010,29,The wind begins to rise.,audio_009
+1326,55250000,55.250000,shot_010,30,The wind begins to rise.,audio_009
+1327,55291667,55.291667,shot_010,31,The wind begins to rise.,audio_009
+1328,55333333,55.333333,shot_010,32,The wind begins to rise.,audio_009
+1329,55375000,55.375000,shot_010,33,The wind begins to rise.,audio_009
+1330,55416667,55.416667,shot_010,34,The wind begins to rise.,audio_009
+1331,55458333,55.458333,shot_010,35,The wind begins to rise.,audio_009
+1332,55500000,55.500000,shot_010,36,The wind begins to rise.,audio_009
+1333,55541667,55.541667,shot_010,37,The wind begins to rise.,audio_009
+1334,55583333,55.583333,shot_010,38,The wind begins to rise.,audio_009
+1335,55625000,55.625000,shot_010,39,The wind begins to rise.,audio_009
+1336,55666667,55.666667,shot_010,40,The wind begins to rise.,audio_009
+1337,55708333,55.708333,shot_010,41,The wind begins to rise.,audio_009
+1338,55750000,55.750000,shot_010,42,The wind begins to rise.,audio_009
+1339,55791667,55.791667,shot_010,43,The wind begins to rise.,audio_009
+1340,55833333,55.833333,shot_010,44,The wind begins to rise.,audio_009
+1341,55875000,55.875000,shot_010,45,The wind begins to rise.,audio_009
+1342,55916667,55.916667,shot_010,46,The wind begins to rise.,audio_009
+1343,55958333,55.958333,shot_010,47,The wind begins to rise.,audio_009
+1344,56000000,56.000000,shot_010,48,The wind begins to rise.,audio_009
+1345,56041667,56.041667,shot_010,49,The wind begins to rise.,audio_009
+1346,56083333,56.083333,shot_010,50,The wind begins to rise.,audio_009
+1347,56125000,56.125000,shot_010,51,The wind begins to rise.,audio_009
+1348,56166667,56.166667,shot_010,52,The wind begins to rise.,audio_009
+1349,56208333,56.208333,shot_010,53,The wind begins to rise.,audio_009
+1350,56250000,56.250000,shot_010,54,The wind begins to rise.,audio_009
+1351,56291667,56.291667,shot_010,55,The wind begins to rise.,audio_009
+1352,56333333,56.333333,shot_010,56,The wind begins to rise.,audio_009
+1353,56375000,56.375000,shot_010,57,The wind begins to rise.,audio_009
+1354,56416667,56.416667,shot_010,58,The wind begins to rise.,audio_009
+1355,56458333,56.458333,shot_010,59,The wind begins to rise.,audio_009
+1356,56500000,56.500000,shot_010,60,The wind begins to rise.,audio_009
+1357,56541667,56.541667,shot_010,61,The wind begins to rise.,audio_009
+1358,56583333,56.583333,shot_010,62,The wind begins to rise.,audio_009
+1359,56625000,56.625000,shot_010,63,The wind begins to rise.,audio_009
+1360,56666667,56.666667,shot_010,64,The wind begins to rise.,audio_009
+1361,56708333,56.708333,shot_010,65,The wind begins to rise.,audio_009
+1362,56750000,56.750000,shot_010,66,The wind begins to rise.,audio_009
+1363,56791667,56.791667,shot_010,67,The wind begins to rise.,audio_009
+1364,56833333,56.833333,shot_010,68,The wind begins to rise.,audio_009
+1365,56875000,56.875000,shot_010,69,The wind begins to rise.,audio_009
+1366,56916667,56.916667,shot_010,70,The wind begins to rise.,audio_009
+1367,56958333,56.958333,shot_010,71,The wind begins to rise.,audio_009
+1368,57000000,57.000000,shot_010,72,The wind begins to rise.,audio_009
+1369,57041667,57.041667,shot_010,73,The wind begins to rise.,audio_009
+1370,57083333,57.083333,shot_010,74,The wind begins to rise.,audio_009
+1371,57125000,57.125000,shot_010,75,The wind begins to rise.,audio_009
+1372,57166667,57.166667,shot_010,76,The wind begins to rise.,audio_009
+1373,57208333,57.208333,shot_010,77,The wind begins to rise.,audio_009
+1374,57250000,57.250000,shot_010,78,The wind begins to rise.,audio_009
+1375,57291667,57.291667,shot_010,79,The wind begins to rise.,audio_009
+1376,57333333,57.333333,shot_010,80,The wind begins to rise.,audio_009
+1377,57375000,57.375000,shot_010,81,The wind begins to rise.,audio_009
+1378,57416667,57.416667,shot_010,82,The wind begins to rise.,audio_009
+1379,57458333,57.458333,shot_010,83,The wind begins to rise.,audio_009
+1380,57500000,57.500000,shot_010,84,The wind begins to rise.,audio_009
+1381,57541667,57.541667,shot_010,85,The wind begins to rise.,audio_009
+1382,57583333,57.583333,shot_010,86,The wind begins to rise.,audio_009
+1383,57625000,57.625000,shot_010,87,The wind begins to rise.,audio_009
+1384,57666667,57.666667,shot_010,88,The wind begins to rise.,audio_009
+1385,57708333,57.708333,shot_010,89,The wind begins to rise.,audio_009
+1386,57750000,57.750000,shot_010,90,The wind begins to rise.,audio_009
+1387,57791667,57.791667,shot_010,91,The wind begins to rise.,audio_009
+1388,57833333,57.833333,shot_010,92,The wind begins to rise.,audio_009
+1389,57875000,57.875000,shot_010,93,The wind begins to rise.,audio_009
+1390,57916667,57.916667,shot_010,94,The wind begins to rise.,audio_009
+1391,57958333,57.958333,shot_010,95,The wind begins to rise.,audio_009
+1392,58000000,58.000000,shot_010,96,The wind begins to rise.,audio_009
+1393,58041667,58.041667,shot_010,97,The wind begins to rise.,audio_009
+1394,58083333,58.083333,shot_010,98,The wind begins to rise.,audio_009
+1395,58125000,58.125000,shot_010,99,The wind begins to rise.,audio_009
+1396,58166667,58.166667,shot_010,100,The wind begins to rise.,audio_009
+1397,58208333,58.208333,shot_010,101,The wind begins to rise.,audio_009
+1398,58250000,58.250000,shot_010,102,The wind begins to rise.,audio_009
+1399,58291667,58.291667,shot_010,103,The wind begins to rise.,audio_009
+1400,58333333,58.333333,shot_010,104,The wind begins to rise.,audio_009
+1401,58375000,58.375000,shot_010,105,The wind begins to rise.,audio_009
+1402,58416667,58.416667,shot_010,106,The wind begins to rise.,audio_009
+1403,58458333,58.458333,shot_010,107,The wind begins to rise.,audio_009
+1404,58500000,58.500000,shot_010,108,The wind begins to rise.,audio_009
+1405,58541667,58.541667,shot_010,109,The wind begins to rise.,audio_009
+1406,58583333,58.583333,shot_010,110,The wind begins to rise.,audio_009
+1407,58625000,58.625000,shot_010,111,The wind begins to rise.,audio_009
+1408,58666667,58.666667,shot_010,112,The wind begins to rise.,audio_009
+1409,58708333,58.708333,shot_010,113,The wind begins to rise.,audio_009
+1410,58750000,58.750000,shot_010,114,The wind begins to rise.,audio_009
+1411,58791667,58.791667,shot_010,115,The wind begins to rise.,audio_009
+1412,58833333,58.833333,shot_010,116,The wind begins to rise.,audio_009
+1413,58875000,58.875000,shot_010,117,The wind begins to rise.,audio_009
+1414,58916667,58.916667,shot_010,118,The wind begins to rise.,audio_009
+1415,58958333,58.958333,shot_010,119,The wind begins to rise.,audio_009
+1416,59000000,59.000000,shot_010,120,The wind begins to rise.,audio_009
+1417,59041667,59.041667,shot_010,121,The wind begins to rise.,audio_009
+1418,59083333,59.083333,shot_010,122,The wind begins to rise.,audio_009
+1419,59125000,59.125000,shot_010,123,The wind begins to rise.,audio_009
+1420,59166667,59.166667,shot_010,124,The wind begins to rise.,audio_009
+1421,59208333,59.208333,shot_010,125,The wind begins to rise.,audio_009
+1422,59250000,59.250000,shot_010,126,The wind begins to rise.,audio_009
+1423,59291667,59.291667,shot_010,127,The wind begins to rise.,audio_009
+1424,59333333,59.333333,shot_010,128,The wind begins to rise.,audio_009
+1425,59375000,59.375000,shot_010,129,The wind begins to rise.,audio_009
+1426,59416667,59.416667,shot_010,130,The wind begins to rise.,audio_009
+1427,59458333,59.458333,shot_010,131,The wind begins to rise.,audio_009
+1428,59500000,59.500000,shot_010,132,,audio_009
+1429,59541667,59.541667,shot_010,133,,audio_009
+1430,59583333,59.583333,shot_010,134,,audio_009
+1431,59625000,59.625000,shot_010,135,,audio_009
+1432,59666667,59.666667,shot_010,136,,audio_009
+1433,59708333,59.708333,shot_010,137,,audio_009
+1434,59750000,59.750000,shot_010,138,,audio_009
+1435,59791667,59.791667,shot_010,139,,audio_009
+1436,59833333,59.833333,shot_010,140,,audio_009
+1437,59875000,59.875000,shot_010,141,,audio_009
+1438,59916667,59.916667,shot_010,142,,audio_009
+1439,59958333,59.958333,shot_010,143,,audio_009

@@ -1,0 +1,11 @@
+shot_id,title,start_us,end_us,start_frame,end_frame,total_frames
+shot_001,Aulis Stillness,0,6000000,0,144,144
+shot_002,Agamemnon Burden,6000000,12000000,144,288,144
+shot_003,Iphigenia Approach,12000000,18000000,288,432,144
+shot_004,Agamemnon Guilt,18000000,24000000,432,576,144
+shot_005,Hand / Rune Choice,24000000,30000000,576,720,144
+shot_006,Match Cut / Kaelen,30000000,36000000,720,864,144
+shot_007,Kaelen Eyes Awakening,36000000,42000000,864,1008,144
+shot_008,Dual Release,42000000,48000000,1008,1152,144
+shot_009,Fleet Destiny,48000000,54000000,1152,1296,144
+shot_010,Rune Mystery,54000000,60000000,1296,1440,144

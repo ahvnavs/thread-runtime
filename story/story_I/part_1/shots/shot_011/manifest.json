@@ -1,0 +1,47 @@
+{
+  "shot_id": "shot_011",
+  "canvas": [
+    426,
+    240
+  ],
+  "duration_s": 10.0,
+  "specification": {
+    "title": "Quantum Core Pulse",
+    "framing": "medium"
+  },
+  "layers": [
+    {
+      "id": "background",
+      "file": "background.png",
+      "z": 0,
+      "parallax": 0.0
+    },
+    {
+      "id": "subject",
+      "file": "subject.png",
+      "z": 10,
+      "parallax": 0.1
+    },
+    {
+      "id": "foreground",
+      "file": "foreground.png",
+      "z": 20,
+      "parallax": 0.3
+    }
+  ],
+  "camera": {
+    "start": [
+      0,
+      0
+    ],
+    "end": [
+      4,
+      0
+    ],
+    "duration_s": 10.0
+  },
+  "effects": [
+    "bayer_dithering",
+    "bitwise_scanlines"
+  ]
+}

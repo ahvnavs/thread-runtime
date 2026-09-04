@@ -1,0 +1,48 @@
+{
+  "shot_id": "shot_001",
+  "canvas": [426, 240],
+  "duration_s": 10.0,
+  "specification": {
+    "era": "Late Bronze Age Aulis",
+    "framing": "Extreme wide establishing shot",
+    "mood": "Ominous, Sacred, Vast, Human insignificance against landscape"
+  },
+  "layers": [
+    {
+      "id": "background",
+      "file": "background.png",
+      "z": 0,
+      "parallax": 0.0
+    },
+    {
+      "id": "sea_and_fleet",
+      "file": "sea_and_fleet.png",
+      "z": 10,
+      "animation": "sea_glint_shimmer",
+      "parallax": 0.1
+    },
+    {
+      "id": "iphigenia",
+      "file": "iphigenia_sprite.png",
+      "z": 20,
+      "animation": "micro_wind_drift",
+      "parallax": 0.2
+    },
+    {
+      "id": "foreground_rocks",
+      "file": "foreground_rocks.png",
+      "z": 30,
+      "parallax": 0.3
+    }
+  ],
+  "camera": {
+    "start": [0, 0],
+    "end": [2, 0],
+    "duration_s": 10.0
+  },
+  "effects": [
+    "bayer_dithering",
+    "bitwise_scanlines",
+    "sea_glint_shimmer"
+  ]
+}

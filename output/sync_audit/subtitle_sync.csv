@@ -1,0 +1,11 @@
+cue_id,shot_id,start_us,end_us,start_frame,end_frame,text
+sub_001,shot_001,1000000,5500000,24,132,"At Aulis, the winds died. A thousand ships lay motionless upon a stagnant sea."
+sub_002,shot_002,7000000,11500000,168,276,The army rotted in the sun. Agamemnon watched from the high prow of his flagship.
+sub_003,shot_003,13000000,17500000,312,420,"Iphigenia walked toward the granite altar, her white linen robe trailing across dust."
+sub_004,shot_004,19000000,23500000,456,564,Forgive me... the winds demand their toll.
+sub_005,shot_005,25000000,29500000,600,708,She reached out to touch the gold inlay.
+sub_006,shot_006,31000000,35500000,744,852,[TEMPORAL MATCH CUT] Three thousand years later... The sacrifice was never forgotten.
+sub_007,shot_007,37000000,41500000,888,996,Kaelen's hand touched the glowing cyan conduit of Aulis-9.
+sub_008,shot_008,43000000,47500000,1032,1140,An orbital core waiting for an identical sacrifice.
+sub_009,shot_009,49000000,53500000,1176,1284,The thread connects what time separates.
+sub_010,shot_010,55000000,59500000,1320,1428,The wind begins to rise.

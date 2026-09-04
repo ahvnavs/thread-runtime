@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "story_id": "story_i_part_1",
+  "assets": [
+    {
+      "asset_id": "shot_005_hand_png",
+      "path": "story/story_I/part_1/shots/shot_005/layers/hand.png",
+      "type": "raster_layer",
+      "source": "THREAD Master Pixel Art Unit",
+      "creator": "THREAD Master Pixel Art Unit",
+      "license": "THREAD Proprietary Commercial IP",
+      "generation_method": "Authored 426x240 Pixel Art Layer",
+      "created_at": "2026-09-04T01:50:00Z",
+      "status": "ORIGINAL_ART"
+    },
+    {
+      "asset_id": "shot_006_hand_png",
+      "path": "story/story_I/part_1/shots/shot_006/layers/hand.png",
+      "type": "raster_layer",
+      "source": "THREAD Master Pixel Art Unit",
+      "creator": "THREAD Master Pixel Art Unit",
+      "license": "THREAD Proprietary Commercial IP",
+      "generation_method": "Authored 426x240 Pixel Art Layer",
+      "created_at": "2026-09-04T01:50:00Z",
+      "status": "ORIGINAL_ART"
+    }
+  ]
+}

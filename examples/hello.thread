@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0",
+  "metadata": {
+    "id": "hello-thread-demo",
+    "title": "The Crossroads of Destiny",
+    "version": "1.0.0",
+    "author": "THREAD Runtime Team",
+    "description": "A demonstration narrative featuring interactive story branching and an end-to-end 32-second cinematic vertical slice.",
+    "minimum_runtime": "0.1.0"
+  },
+  "initial_state": {
+    "flags": {},
+    "variables": {
+      "courage": 0
+    },
+    "inventory": []
+  },
+  "start_scene": "scene_start",
+  "scenes": {
+    "scene_start": {
+      "id": "scene_start",
+      "title": "The Crossroads",
+      "text": "You stand at a sunlit crossroads at the edge of an ancient forest. Near a hollow oak tree, something metallic glimmers in the grass.",
+      "choices": [
+        {
+          "id": "choice_search",
+          "text": "Search the hollow oak tree",
+          "target": "scene_found_key",
+          "effects": [
+            {
+              "type": "add_item",
+              "item": "brass_key"
+            },
+            {
+              "type": "set_flag",
+              "name": "searched_oak",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": "choice_ridge",
+          "text": "Ascend the misty ridge towards the peak",
+          "target": "scene_ridge"
+        },
+        {
+          "id": "choice_gate",
+          "text": "Walk down the stone path towards the ancient iron gate",
+          "target": "scene_gate"
+        }
+      ]
+    },
+    "scene_found_key": {
+      "id": "scene_found_key",
+      "title": "The Hollow Tree",
+      "text": "Inside the hollow oak, you find a heavy brass key wrapped in weathered leather. You place it safely in your satchel.",
+      "choices": [
+        {
+          "id": "choice_continue_gate",
+          "text": "Head towards the ancient iron gate",
+          "target": "scene_gate",
+          "effects": [
+            {
+              "type": "add_variable",
+              "name": "courage",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "id": "choice_continue_ridge",
+          "text": "Ascend the misty ridge towards the peak",
+          "target": "scene_ridge"
+        }
+      ]
+    },
+    "scene_ridge": {
+      "id": "scene_ridge",
+      "title": "The Star Observatory",
+      "text": "You reach the summit of the ridge where an ancient stone observatory stands under open skies. A brass astrolabe hums softly, revealing a map of uncharted stars.",
+      "is_ending": true,
+      "ending_type": "Stargazer"
+    },
+    "scene_gate": {
+      "id": "scene_gate",
+      "title": "The Iron Gate",
+      "text": "A tall iron gate sealed with an ancient lock blocks the entrance to the inner sanctuary.",
+      "choices": [
+        {
+          "id": "choice_unlock",
+          "text": "Use the brass key to unlock the iron gate",
+          "target": "scene_sanctuary",
+          "condition": {
+            "type": "has_item",
+            "item": "brass_key"
+          }
+        },
+        {
+          "id": "choice_turn_back",
+          "text": "Turn back to the crossroads",
+          "target": "scene_start"
+        },
+        {
+          "id": "choice_force",
+          "text": "Bypass the gate and tread through the dense brambles",
+          "target": "scene_overgrown"
+        }
+      ]
+    },
+    "scene_sanctuary": {
+      "id": "scene_sanctuary",
+      "title": "The Hidden Sanctuary",
+      "text": "The brass key turns smoothly. The iron gate swings open to reveal a pristine sanctuary glowing with celestial light.",
+      "is_ending": true,
+      "ending_type": "Sanctuary Guardian"
+    },
+    "scene_overgrown": {
+      "id": "scene_overgrown",
+      "title": "The Overgrown Path",
+      "text": "You bypass the gate and tread through dense brambles, discovering a quiet valley spring.",
+      "is_ending": true,
+      "ending_type": "Wayfinder"
+    }
+  },
+  "cinematic_scenes": {
+    "scene_threshold": {
+      "id": "scene_threshold",
+      "title": "The Threshold: Echoes of Eternity",
+      "duration_ms": 32000,
+      "shots": [
+        {
+          "id": "shot_001",
+          "duration_ms": 7000,
+          "camera": {
+            "framing": "extreme_wide",
+            "movement": "static",
+            "subject": "ancient_mountain_pass"
+          },
+          "cues": [
+            {
+              "cue_type": "ambience",
+              "asset_id": "wind_whistle",
+              "start_time_ms": 0,
+              "volume": 0.8
+            }
+          ]
+        },
+        {
+          "id": "shot_002",
+          "duration_ms": 6000,
+          "camera": {
+            "framing": "wide",
+            "movement": "tracking",
+            "subject": "traveler_elias"
+          },
+          "actions": [
+            {
+              "character_id": "traveler_elias",
+              "action": "walk",
+              "start_time_ms": 0,
+              "duration_ms": 6000,
+              "target": "iron_gate"
+            }
+          ]
+        },
+        {
+          "id": "shot_003",
+          "duration_ms": 5000,
+          "camera": {
+            "framing": "medium",
+            "movement": "push_in",
+            "subject": "traveler_elias"
+          },
+          "actions": [
+            {
+              "character_id": "traveler_elias",
+              "action": "stand",
+              "start_time_ms": 0,
+              "duration_ms": 5000
+            }
+          ]
+        },
+        {
+          "id": "shot_004",
+          "duration_ms": 5000,
+          "camera": {
+            "framing": "close",
+            "movement": "static",
+            "subject": "iron_lock"
+          },
+          "actions": [
+            {
+              "character_id": "traveler_elias",
+              "action": "raise",
+              "start_time_ms": 0,
+              "target": "hand"
+            }
+          ],
+          "cues": [
+            {
+              "cue_type": "sound_effect",
+              "asset_id": "gate_hum",
+              "start_time_ms": 1000,
+              "volume": 1.0
+            }
+          ]
+        },
+        {
+          "id": "shot_005",
+          "duration_ms": 3000,
+          "camera": {
+            "framing": "close",
+            "movement": "static",
+            "subject": "eyes_ancient"
+          },
+          "actions": [
+            {
+              "character_id": "traveler_elias",
+              "action": "look",
+              "start_time_ms": 0
+            }
+          ],
+          "cues": [
+            {
+              "cue_type": "dialogue",
+              "asset_id": "line_gate_remembers",
+              "speaker_id": "traveler_elias",
+              "text": "The gate remembers...",
+              "start_time_ms": 0
+            }
+          ],
+          "transition": {
+            "type": "match_cut",
+            "duration_ms": 0,
+            "target_scene": "scene_future_threshold",
+            "target_shot": "shot_006"
+          }
+        },
+        {
+          "id": "shot_006",
+          "duration_ms": 3000,
+          "camera": {
+            "framing": "close",
+            "movement": "static",
+            "subject": "eyes_future"
+          },
+          "actions": [
+            {
+              "character_id": "cyber_elias",
+              "action": "speak",
+              "start_time_ms": 0
+            }
+          ],
+          "cues": [
+            {
+              "cue_type": "dialogue",
+              "asset_id": "line_so_do_i",
+              "speaker_id": "cyber_elias",
+              "text": "And so do I.",
+              "start_time_ms": 0
+            }
+          ]
+        },
+        {
+          "id": "shot_007",
+          "duration_ms": 3000,
+          "camera": {
+            "framing": "extreme_wide",
+            "movement": "pan",
+            "subject": "future_metropolis"
+          },
+          "cues": [
+            {
+              "cue_type": "music",
+              "asset_id": "future_monolith_theme",
+              "start_time_ms": 0,
+              "volume": 0.9
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

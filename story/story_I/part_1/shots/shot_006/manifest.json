@@ -1,0 +1,26 @@
+{
+  "shot_id": "shot_006",
+  "canvas": [426, 240],
+  "duration_s": 6.0,
+  "specification": {
+    "title": "Kaelen Touches Cyber Conduit",
+    "framing": "close",
+    "contact_point": [180, 120]
+  },
+  "layers": [
+    {"id": "background", "file": "layers/background.png", "z": 0, "parallax": 0.0},
+    {"id": "monolith", "file": "layers/monolith.png", "z": 10, "parallax": 0.0},
+    {"id": "monolith_detail", "file": "layers/monolith_detail.png", "z": 15, "parallax": 0.0},
+    {"id": "character", "file": "layers/character.png", "z": 20, "parallax": 0.0},
+    {"id": "hand", "file": "layers/hand.png", "z": 30, "parallax": 0.0},
+    {"id": "conduit", "file": "layers/conduit.png", "z": 40, "parallax": 0.0},
+    {"id": "lighting", "file": "layers/lighting.png", "z": 50, "parallax": 0.0},
+    {"id": "atmosphere", "file": "layers/atmosphere.png", "z": 60, "parallax": 0.0}
+  ],
+  "camera": {
+    "start": [0, 0],
+    "end": [0, 0],
+    "duration_s": 6.0
+  },
+  "effects": ["bayer_dithering", "bitwise_scanlines"]
+}
